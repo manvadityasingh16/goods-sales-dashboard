@@ -1,0 +1,47 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "liked_pages": [
+                "A",
+                "B",
+                "C"
+            ]
+        },
+        {
+            "id": 2,
+            "liked_pages": [
+                "B",
+                "C",
+                "D",
+                "E"
+            ]
+        },
+        {
+            "id": 3,
+            "liked_pages": [
+                "C",
+                "D",
+                "F"
+            ]
+        },
+        {
+            "id": 4,
+            "liked_pages": [
+                "A",
+                "F",
+                "G",
+                "H"
+            ]
+        },
+        {
+            "id": 5,
+            "liked_pages": [
+                "B",
+                "E",
+                "F",
+                "I"
+            ]
+        }
+    ]
+}

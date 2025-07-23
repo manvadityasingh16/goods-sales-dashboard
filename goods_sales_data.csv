@@ -1,0 +1,1001 @@
+OrderID,Date,CustomerName,Region,Product,Category,Quantity,Price,TotalSale
+ORD1000,2025-05-31,Jennifer Shannon,West,Saree,Clothing,5,22219.83,111099.15
+ORD1001,2025-03-17,Brandy Young,South,Cushion Set,Home Decor,2,28029.64,56059.28
+ORD1002,2025-04-01,Peter Young,North,Wall Art,Home Decor,8,26626.96,213015.68
+ORD1003,2024-09-07,Robert Shelton PhD,East,Saree,Clothing,7,26720.91,187046.37
+ORD1004,2024-11-10,Mr. Benjamin Randolph,West,LED TV,Electronics,10,39567.06,395670.6
+ORD1005,2025-05-09,Aaron Duncan,East,Saree,Clothing,9,9114.51,82030.59
+ORD1006,2025-06-12,Vanessa Williamson,East,Oil,Groceries,7,9395.64,65769.48
+ORD1007,2025-03-14,Brooke Smith,West,Rice,Groceries,10,38559.16,385591.6
+ORD1008,2024-11-05,Megan Cooke,East,Rice,Groceries,3,22833.86,68501.58
+ORD1009,2025-04-30,Nicholas Chan,South,Smartphone,Electronics,7,45447.2,318130.4
+ORD1010,2025-05-20,Michael Medina,North,Cushion Set,Home Decor,5,49122.7,245613.5
+ORD1011,2024-09-17,Martin Mitchell,East,Saree,Clothing,1,40688.86,40688.86
+ORD1012,2024-10-21,Anthony Graham,North,Milk,Groceries,8,40095.8,320766.4
+ORD1013,2024-12-28,Kevin White,North,Bluetooth Speaker,Electronics,6,13134.49,78806.94
+ORD1014,2025-05-18,Michael Williams Jr.,North,Laptop,Electronics,2,20476.78,40953.56
+ORD1015,2025-06-17,Christopher Black,East,Jeans,Clothing,8,3951.44,31611.52
+ORD1016,2024-08-15,Gregory Franklin,West,Smartphone,Electronics,4,3395.79,13583.16
+ORD1017,2025-03-04,Angela Miles,East,Milk,Groceries,10,30975.82,309758.2
+ORD1018,2024-11-18,David Davis,East,Wall Art,Home Decor,4,13564.4,54257.6
+ORD1019,2025-02-10,Marcus Cobb,West,Oil,Groceries,7,37439.02,262073.14
+ORD1020,2025-07-13,Mrs. Wanda Baker,West,Smartphone,Electronics,4,40465.91,161863.64
+ORD1021,2024-09-13,Matthew Watson,North,Smartphone,Electronics,3,8494.15,25482.45
+ORD1022,2024-10-08,Michael Rivas,West,Bluetooth Speaker,Electronics,6,40706.82,244240.92
+ORD1023,2024-11-22,Jacob Weeks,West,Saree,Clothing,10,40073.73,400737.3
+ORD1024,2024-12-30,Joshua Walter,East,LED TV,Electronics,9,48408.92,435680.28
+ORD1025,2025-01-26,Amanda Davis,East,Smartphone,Electronics,6,32790.16,196740.96
+ORD1026,2025-02-18,Megan Bennett,West,T-Shirt,Clothing,6,10815.8,64894.8
+ORD1027,2025-01-11,Jason Roberts,South,Oil,Groceries,5,28755.36,143776.8
+ORD1028,2025-04-04,Jacqueline Chan,North,Lamp,Home Decor,10,40477.26,404772.6
+ORD1029,2025-04-15,Robert Lewis,North,Smartphone,Electronics,9,11719.75,105477.75
+ORD1030,2025-05-06,Kyle Vance,South,LED TV,Electronics,2,45540.56,91081.12
+ORD1031,2024-08-16,Katie Carter,South,Curtains,Home Decor,10,44010.46,440104.6
+ORD1032,2025-03-22,Brenda Phillips,North,LED TV,Electronics,1,4354.59,4354.59
+ORD1033,2025-03-06,Brandi Williams,South,Wall Art,Home Decor,8,17332.13,138657.04
+ORD1034,2024-10-15,Crystal Ochoa,North,Cushion Set,Home Decor,4,20159.7,80638.8
+ORD1035,2024-07-16,Travis Phillips,West,Smartphone,Electronics,10,8861.93,88619.3
+ORD1036,2025-03-16,Michael Mcmahon,East,Jacket,Clothing,7,24001.58,168011.06
+ORD1037,2025-04-25,David Obrien,South,Lamp,Home Decor,6,8736.25,52417.5
+ORD1038,2025-04-10,Terrance Barajas,West,Laptop,Electronics,9,20703.22,186328.98
+ORD1039,2025-01-29,Gary Vaughn,South,Curtains,Home Decor,1,25124.51,25124.51
+ORD1040,2025-05-08,Ronald Jarvis,North,Jeans,Clothing,9,39933.95,359405.55
+ORD1041,2024-08-07,Toni Mcdaniel,North,LED TV,Electronics,7,21600.45,151203.15
+ORD1042,2024-12-02,Ashley Potter,West,Saree,Clothing,6,11037.37,66224.22
+ORD1043,2025-05-12,Brandon Nelson,West,Curtains,Home Decor,8,6152.07,49216.56
+ORD1044,2025-04-28,Ms. Laurie Lloyd,West,Milk,Groceries,8,8055.31,64442.48
+ORD1045,2025-03-03,Shannon Woods,West,Jeans,Clothing,1,40605.89,40605.89
+ORD1046,2024-09-02,Laura Wilson,South,Jacket,Clothing,4,9958.32,39833.28
+ORD1047,2025-01-18,Miss Victoria Nguyen,South,Rice,Groceries,6,8426.84,50561.04
+ORD1048,2025-03-21,Dr. Kathleen Cox,East,Smartphone,Electronics,8,24527.39,196219.12
+ORD1049,2024-12-28,Robert Jones,West,Milk,Groceries,3,35334.77,106004.31
+ORD1050,2024-10-14,Jason Crawford,West,Oil,Groceries,8,27231.82,217854.56
+ORD1051,2024-12-05,Jennifer Edwards,West,Saree,Clothing,7,7049.59,49347.13
+ORD1052,2024-12-08,Alison Wolfe,South,Bluetooth Speaker,Electronics,10,321.56,3215.6
+ORD1053,2025-03-31,Nicole Cisneros,North,Rice,Groceries,7,22450.06,157150.42
+ORD1054,2024-10-20,Brandy Lambert,North,Bluetooth Speaker,Electronics,5,12121.56,60607.8
+ORD1055,2024-10-01,Paul Glover,East,T-Shirt,Clothing,5,4286.55,21432.75
+ORD1056,2025-07-01,John Nelson,West,Rice,Groceries,7,37516.09,262612.63
+ORD1057,2024-10-16,Joshua Kaiser,South,Laptop,Electronics,5,23404.25,117021.25
+ORD1058,2024-09-08,Courtney Fox,West,Jacket,Clothing,5,10249.7,51248.5
+ORD1059,2025-07-13,Sierra Smith,South,Oil,Groceries,1,37051.54,37051.54
+ORD1060,2025-05-21,Ryan Wright,South,T-Shirt,Clothing,4,13513.36,54053.44
+ORD1061,2024-10-12,Veronica Higgins,North,Bluetooth Speaker,Electronics,6,43402.89,260417.34
+ORD1062,2025-03-29,Melissa Garcia,West,Jacket,Clothing,5,38990.34,194951.7
+ORD1063,2025-03-22,Rebecca Morrison,West,Jacket,Clothing,4,11121.95,44487.8
+ORD1064,2024-10-03,Crystal Moore,East,Laptop,Electronics,1,49270.73,49270.73
+ORD1065,2024-10-11,David Garcia,West,Curtains,Home Decor,4,15869.27,63477.08
+ORD1066,2024-09-09,Jeffrey Foster,West,Pulses,Groceries,1,7558.63,7558.63
+ORD1067,2024-07-17,Jennifer Mcguire,South,Cushion Set,Home Decor,2,19068.6,38137.2
+ORD1068,2024-09-05,Peggy Shaw,West,Cushion Set,Home Decor,1,37767.17,37767.17
+ORD1069,2025-05-31,Gregory Frederick,West,Cushion Set,Home Decor,7,34189.61,239327.27
+ORD1070,2024-11-07,Katherine Neal,East,LED TV,Electronics,3,40564.07,121692.21
+ORD1071,2025-02-26,Christine Campbell,North,Jeans,Clothing,2,44456.06,88912.12
+ORD1072,2025-04-08,Alexandria Steele,South,T-Shirt,Clothing,5,1158.83,5794.15
+ORD1073,2024-08-04,Anthony Keller,South,Lamp,Home Decor,1,29076.43,29076.43
+ORD1074,2024-08-15,Anthony Robertson,East,Milk,Groceries,4,28130.96,112523.84
+ORD1075,2025-03-10,Charles Harper,South,Oil,Groceries,1,36484.63,36484.63
+ORD1076,2025-07-14,Carrie Williams,North,Saree,Clothing,7,26225.65,183579.55
+ORD1077,2025-04-28,Patrick Diaz,East,Jeans,Clothing,4,568.19,2272.76
+ORD1078,2025-03-09,Amanda Riddle,North,LED TV,Electronics,6,19173.76,115042.56
+ORD1079,2024-12-21,Kimberly Guzman,East,Bluetooth Speaker,Electronics,3,48255.97,144767.91
+ORD1080,2024-12-25,Travis Suarez,South,Jacket,Clothing,2,23894.54,47789.08
+ORD1081,2024-09-29,Craig Arroyo,East,LED TV,Electronics,6,17978.19,107869.14
+ORD1082,2025-04-02,Mike Aguilar,South,Cushion Set,Home Decor,6,17471.44,104828.64
+ORD1083,2025-03-14,Susan Baker,North,Smartphone,Electronics,3,29151.24,87453.72
+ORD1084,2025-07-13,Lauren Smith,North,Pulses,Groceries,1,40649.98,40649.98
+ORD1085,2025-02-14,William Ramirez,North,Bluetooth Speaker,Electronics,8,45522.07,364176.56
+ORD1086,2025-03-22,Janice Mueller,East,Saree,Clothing,7,17690.17,123831.19
+ORD1087,2024-08-13,Jennifer Mccarthy,South,Smartphone,Electronics,10,48966.61,489666.1
+ORD1088,2025-01-26,Katherine Barron,North,Oil,Groceries,1,42373.69,42373.69
+ORD1089,2025-01-22,Kelly Ortiz,East,Smartphone,Electronics,8,36951.55,295612.4
+ORD1090,2025-06-07,Brooke Williams,North,Smartphone,Electronics,1,43254.81,43254.81
+ORD1091,2025-03-27,Jacob Gomez,North,Wall Art,Home Decor,9,15123.72,136113.48
+ORD1092,2025-07-02,Ann Black,West,Jeans,Clothing,6,41771.16,250626.96
+ORD1093,2025-07-13,Jessica Peters,North,Jacket,Clothing,1,27147.91,27147.91
+ORD1094,2025-05-13,Lacey Mccall,East,Lamp,Home Decor,8,15979.17,127833.36
+ORD1095,2025-02-26,Diana Myers,East,Laptop,Electronics,10,35660.08,356600.8
+ORD1096,2025-02-27,Rebecca Weber,East,Wall Art,Home Decor,4,30752.05,123008.2
+ORD1097,2024-10-02,Peter Martin,West,Saree,Clothing,1,21200.39,21200.39
+ORD1098,2024-12-25,Nicholas Wu,South,Laptop,Electronics,6,6054.04,36324.24
+ORD1099,2025-05-02,Dana White,North,Wall Art,Home Decor,3,22293.64,66880.92
+ORD1100,2024-12-07,Susan Matthews,South,Bluetooth Speaker,Electronics,8,392.68,3141.44
+ORD1101,2024-11-11,Robert Rivas,East,Curtains,Home Decor,7,19868.64,139080.48
+ORD1102,2025-07-10,Steven Liu,West,Wall Art,Home Decor,2,6011.86,12023.72
+ORD1103,2025-06-29,Julie Adams,West,Bluetooth Speaker,Electronics,4,38311.78,153247.12
+ORD1104,2024-09-03,Nicole Martin,East,Curtains,Home Decor,5,49668.47,248342.35
+ORD1105,2025-04-28,Steven Ortiz,East,Jeans,Clothing,4,44378.7,177514.8
+ORD1106,2024-12-05,Ashley Rollins,South,Jeans,Clothing,3,4404.55,13213.65
+ORD1107,2024-10-21,Leslie Peters,East,Wall Art,Home Decor,6,13888.19,83329.14
+ORD1108,2024-09-09,Lisa Lewis,East,Cushion Set,Home Decor,3,26905.14,80715.42
+ORD1109,2025-03-03,Tristan Smith,South,Laptop,Electronics,9,39463.81,355174.29
+ORD1110,2025-05-19,Anthony Page,West,T-Shirt,Clothing,2,2827.06,5654.12
+ORD1111,2025-04-28,Angela Campbell,West,Bluetooth Speaker,Electronics,3,15750.03,47250.09
+ORD1112,2025-03-14,Michelle Sullivan,East,Laptop,Electronics,5,38442.97,192214.85
+ORD1113,2024-08-16,Marissa Salas,South,Jacket,Clothing,8,44251.79,354014.32
+ORD1114,2025-06-09,Carlos Ford,South,Pulses,Groceries,6,47017.17,282103.02
+ORD1115,2025-04-10,Angel Cook,North,Jeans,Clothing,8,20673.45,165387.6
+ORD1116,2025-02-13,Amy Ross,South,Curtains,Home Decor,9,9857.63,88718.67
+ORD1117,2025-06-25,Tara Morris,South,Wall Art,Home Decor,1,21225.66,21225.66
+ORD1118,2025-02-14,Katelyn Garcia,North,Saree,Clothing,10,5966.38,59663.8
+ORD1119,2024-12-07,Margaret Ruiz,North,Bluetooth Speaker,Electronics,5,49478.11,247390.55
+ORD1120,2025-04-12,Frank Carter,South,Milk,Groceries,3,7980.71,23942.13
+ORD1121,2025-06-03,Tracey Fischer,West,Pulses,Groceries,6,19850.81,119104.86
+ORD1122,2025-05-06,Grace Smith,South,Saree,Clothing,7,20770.57,145393.99
+ORD1123,2025-02-15,Kimberly Benson,East,Wall Art,Home Decor,8,24324.06,194592.48
+ORD1124,2024-11-16,Lauren Anderson,North,Laptop,Electronics,10,33676.75,336767.5
+ORD1125,2024-07-15,Nicholas Johnson,West,Jacket,Clothing,5,31599.21,157996.05
+ORD1126,2024-09-06,Shari Lee,West,Milk,Groceries,9,45504.32,409538.88
+ORD1127,2024-12-20,Monica White,North,Oil,Groceries,10,37934.83,379348.3
+ORD1128,2024-09-07,Angel Cantrell,North,Jacket,Clothing,2,28636.14,57272.28
+ORD1129,2024-11-04,Megan Lopez,South,T-Shirt,Clothing,10,29860.84,298608.4
+ORD1130,2025-04-18,Jeremy Smith,West,Bluetooth Speaker,Electronics,9,8041.84,72376.56
+ORD1131,2024-12-27,Gregory Torres,North,Milk,Groceries,8,30090.71,240725.68
+ORD1132,2025-02-14,Thomas Case,East,LED TV,Electronics,5,6956.47,34782.35
+ORD1133,2024-09-01,Taylor Mills,East,Cushion Set,Home Decor,1,28257.04,28257.04
+ORD1134,2025-04-13,Veronica Velez,East,Milk,Groceries,5,3391.73,16958.65
+ORD1135,2025-05-27,Jill Williamson,East,Cushion Set,Home Decor,4,36694.92,146779.68
+ORD1136,2024-08-17,Jacqueline Moore,East,Rice,Groceries,7,39307.45,275152.15
+ORD1137,2024-08-08,Nicholas Young,North,Jeans,Clothing,10,2493.01,24930.1
+ORD1138,2025-02-10,Brenda Chase,South,Smartphone,Electronics,5,11277.97,56389.85
+ORD1139,2025-01-23,James Nelson,West,T-Shirt,Clothing,9,45334.6,408011.4
+ORD1140,2025-07-05,James Hanna,North,Jacket,Clothing,2,25589.8,51179.6
+ORD1141,2024-10-12,Catherine Pope,North,Lamp,Home Decor,1,5678.37,5678.37
+ORD1142,2025-05-13,Jordan Gilbert,North,Milk,Groceries,8,41125.28,329002.24
+ORD1143,2024-11-17,Abigail Hanson,West,T-Shirt,Clothing,6,31543.0,189258.0
+ORD1144,2025-06-06,Rachel Holloway,South,T-Shirt,Clothing,4,40594.74,162378.96
+ORD1145,2025-04-10,Kenneth Gordon,West,Smartphone,Electronics,5,31286.09,156430.45
+ORD1146,2024-11-09,James Hubbard,East,Curtains,Home Decor,10,6330.79,63307.9
+ORD1147,2024-09-05,Bianca Thompson,North,LED TV,Electronics,7,24988.23,174917.61
+ORD1148,2025-03-12,Lisa Burns,South,Smartphone,Electronics,6,28235.86,169415.16
+ORD1149,2024-08-25,Michael Smith,South,Jeans,Clothing,8,13573.4,108587.2
+ORD1150,2024-09-20,Angela Bennett,South,Jacket,Clothing,7,23211.67,162481.69
+ORD1151,2024-10-17,Elizabeth Hebert,South,Pulses,Groceries,7,24959.51,174716.57
+ORD1152,2025-03-19,Susan Ruiz,East,Jeans,Clothing,1,43516.31,43516.31
+ORD1153,2024-12-24,Brenda Gonzales,East,Rice,Groceries,3,49718.04,149154.12
+ORD1154,2024-07-21,Christopher Jones,North,Saree,Clothing,9,43785.21,394066.89
+ORD1155,2024-11-08,Colleen Williamson,South,Laptop,Electronics,1,7840.62,7840.62
+ORD1156,2024-09-09,Brian Wallace,West,Jacket,Clothing,6,31027.59,186165.54
+ORD1157,2024-07-24,Amanda Rios,North,Jacket,Clothing,5,38551.9,192759.5
+ORD1158,2024-08-17,Jeremy Rich,North,Bluetooth Speaker,Electronics,5,43851.34,219256.7
+ORD1159,2025-02-17,Ricardo Weiss,North,Cushion Set,Home Decor,9,18790.25,169112.25
+ORD1160,2025-03-01,Angela Moody,East,Wall Art,Home Decor,1,46652.28,46652.28
+ORD1161,2025-02-19,Richard Hansen,East,T-Shirt,Clothing,1,25021.24,25021.24
+ORD1162,2025-04-22,Vanessa Garcia,East,Cushion Set,Home Decor,9,46984.35,422859.15
+ORD1163,2024-11-15,Patricia Gibbs,East,Oil,Groceries,8,33496.78,267974.24
+ORD1164,2025-01-09,Adam Pratt,West,Laptop,Electronics,6,19755.43,118532.58
+ORD1165,2024-09-26,Mr. Michael Myers,West,Wall Art,Home Decor,3,44536.32,133608.96
+ORD1166,2024-10-03,Kenneth Johnson,East,Bluetooth Speaker,Electronics,9,47816.73,430350.57
+ORD1167,2025-07-14,Taylor Tran,East,Rice,Groceries,2,15621.77,31243.54
+ORD1168,2025-04-14,Michele Brown,East,T-Shirt,Clothing,9,23995.54,215959.86
+ORD1169,2025-07-01,Michelle Smith,North,LED TV,Electronics,5,5199.46,25997.3
+ORD1170,2025-07-08,Erin Thomas,West,Saree,Clothing,5,49151.14,245755.7
+ORD1171,2025-02-01,Karen Wade,North,Jeans,Clothing,7,42422.4,296956.8
+ORD1172,2024-08-22,Bobby Harris,East,Jeans,Clothing,10,37789.44,377894.4
+ORD1173,2025-03-25,Steve Boyle,North,Oil,Groceries,1,27963.6,27963.6
+ORD1174,2025-03-19,Jennifer Anderson,East,Jacket,Clothing,8,9948.85,79590.8
+ORD1175,2024-09-07,Corey Gordon,West,Bluetooth Speaker,Electronics,2,47691.56,95383.12
+ORD1176,2025-03-28,Mike Green,West,Jacket,Clothing,8,20899.51,167196.08
+ORD1177,2025-02-17,Pamela Morton,East,Cushion Set,Home Decor,3,7295.44,21886.32
+ORD1178,2024-07-26,Margaret Stanley,West,Wall Art,Home Decor,3,10491.49,31474.47
+ORD1179,2025-06-10,Melissa Roberson,South,Cushion Set,Home Decor,6,35395.32,212371.92
+ORD1180,2025-07-09,Teresa Fox,South,Oil,Groceries,8,33248.52,265988.16
+ORD1181,2025-05-14,Tiffany Farrell,South,Saree,Clothing,7,5241.81,36692.67
+ORD1182,2025-06-07,Leonard Evans,West,Lamp,Home Decor,3,20861.2,62583.6
+ORD1183,2024-07-20,Kimberly Sanchez,West,Milk,Groceries,7,39445.49,276118.43
+ORD1184,2024-07-14,Joseph Jackson,South,Jeans,Clothing,9,42843.73,385593.57
+ORD1185,2025-02-19,Sean Harris,West,Wall Art,Home Decor,4,47213.56,188854.24
+ORD1186,2024-12-26,Daniel Padilla,South,Saree,Clothing,1,2434.7,2434.7
+ORD1187,2024-10-17,Julie Curry,East,Saree,Clothing,8,15216.58,121732.64
+ORD1188,2024-08-10,Laura Beard,East,T-Shirt,Clothing,4,39660.52,158642.08
+ORD1189,2025-01-13,Catherine Gardner,West,Smartphone,Electronics,5,44172.13,220860.65
+ORD1190,2025-06-28,Jordan Day,South,Pulses,Groceries,2,49172.36,98344.72
+ORD1191,2024-07-20,Darren Christian,North,Jeans,Clothing,7,31947.59,223633.13
+ORD1192,2025-01-05,Michelle Roth,South,Cushion Set,Home Decor,3,27471.29,82413.87
+ORD1193,2024-11-18,Jennifer Thompson,South,Pulses,Groceries,1,18933.4,18933.4
+ORD1194,2025-02-09,Willie Roberts,North,Cushion Set,Home Decor,3,17909.93,53729.79
+ORD1195,2024-09-22,Valerie Taylor,West,Laptop,Electronics,6,26603.11,159618.66
+ORD1196,2025-01-03,Michael Orr,South,Cushion Set,Home Decor,3,2017.44,6052.32
+ORD1197,2024-10-21,Sue Reynolds,South,T-Shirt,Clothing,10,15084.4,150844.0
+ORD1198,2024-11-08,Marissa Davis,North,Oil,Groceries,5,49318.8,246594.0
+ORD1199,2025-04-14,James Martinez,West,Laptop,Electronics,2,14779.89,29559.78
+ORD1200,2024-07-22,Steven Mcmillan,South,Jacket,Clothing,9,43249.12,389242.08
+ORD1201,2024-12-26,Catherine Hall,West,Lamp,Home Decor,4,49292.27,197169.08
+ORD1202,2024-10-12,Joseph Maxwell,North,Pulses,Groceries,10,48412.43,484124.3
+ORD1203,2024-08-26,Richard Johnson,South,Saree,Clothing,4,12279.47,49117.88
+ORD1204,2025-04-04,James Martinez,North,T-Shirt,Clothing,8,19338.84,154710.72
+ORD1205,2024-10-16,Leah Barnes,North,Bluetooth Speaker,Electronics,3,46919.67,140759.01
+ORD1206,2025-05-15,Michael Smith,North,LED TV,Electronics,3,24985.88,74957.64
+ORD1207,2025-04-15,Thomas Reyes,East,Milk,Groceries,10,38252.07,382520.7
+ORD1208,2025-01-15,Julie Ingram,North,Laptop,Electronics,2,19791.52,39583.04
+ORD1209,2024-09-27,Lisa Anderson,East,Lamp,Home Decor,10,28232.37,282323.7
+ORD1210,2024-07-15,Robert Lee,South,T-Shirt,Clothing,1,12785.54,12785.54
+ORD1211,2024-11-10,Judith Hart,East,Curtains,Home Decor,4,12223.62,48894.48
+ORD1212,2025-04-26,Rebecca Jenkins,West,Lamp,Home Decor,5,26714.16,133570.8
+ORD1213,2024-11-13,Robert Rodriguez,East,T-Shirt,Clothing,10,44022.03,440220.3
+ORD1214,2025-07-04,Steven Martin,West,Oil,Groceries,4,46468.78,185875.12
+ORD1215,2024-10-11,Stephanie Matthews,East,Jacket,Clothing,1,39988.47,39988.47
+ORD1216,2025-04-07,Calvin Yang,West,Saree,Clothing,1,24595.98,24595.98
+ORD1217,2025-01-30,Patricia Ortega,South,Lamp,Home Decor,5,3344.36,16721.8
+ORD1218,2025-01-01,Justin Robinson,West,Laptop,Electronics,8,1272.8,10182.4
+ORD1219,2025-01-14,Ana Thompson,South,Oil,Groceries,2,26302.51,52605.02
+ORD1220,2025-01-23,Rachel Hall,West,Milk,Groceries,10,19290.09,192900.9
+ORD1221,2025-06-18,Raymond Smith,West,Milk,Groceries,3,4995.34,14986.02
+ORD1222,2024-11-23,Mr. Nicholas Sanders,South,Laptop,Electronics,5,13593.96,67969.8
+ORD1223,2024-07-20,Wesley Osborn,West,Cushion Set,Home Decor,9,37026.79,333241.11
+ORD1224,2024-09-03,Jacob King,North,Lamp,Home Decor,3,25256.75,75770.25
+ORD1225,2025-02-10,Daniel Vasquez,South,Saree,Clothing,2,7719.43,15438.86
+ORD1226,2024-08-10,William Diaz,South,Curtains,Home Decor,6,30926.77,185560.62
+ORD1227,2025-01-26,Patricia Roberts,West,LED TV,Electronics,5,35404.39,177021.95
+ORD1228,2025-01-13,Mark Castro,North,Cushion Set,Home Decor,2,18290.09,36580.18
+ORD1229,2025-07-08,Ian Kelly,West,LED TV,Electronics,7,40511.58,283581.06
+ORD1230,2025-03-30,Eric Sanchez,North,T-Shirt,Clothing,7,43290.13,303030.91
+ORD1231,2024-11-12,Erica James,North,Jeans,Clothing,9,37530.46,337774.14
+ORD1232,2025-05-02,Michelle Jennings,North,Pulses,Groceries,6,47149.56,282897.36
+ORD1233,2025-03-31,Jeffrey Moses,East,T-Shirt,Clothing,8,30978.93,247831.44
+ORD1234,2025-06-18,Kelly Lane,South,Wall Art,Home Decor,8,31047.84,248382.72
+ORD1235,2025-07-04,Shannon Butler,East,Milk,Groceries,10,20844.0,208440.0
+ORD1236,2025-04-02,Sandra Johnson,South,Rice,Groceries,6,34355.48,206132.88
+ORD1237,2025-01-01,Vincent Mccormick,South,Lamp,Home Decor,5,19814.0,99070.0
+ORD1238,2025-02-09,Haley Newton,North,Cushion Set,Home Decor,3,16440.52,49321.56
+ORD1239,2025-05-16,Christopher Salinas,South,Cushion Set,Home Decor,4,48112.47,192449.88
+ORD1240,2024-12-23,Peggy Jenkins,East,Milk,Groceries,5,43209.21,216046.05
+ORD1241,2025-05-18,Mr. Matthew Castro,East,T-Shirt,Clothing,8,33395.39,267163.12
+ORD1242,2024-08-20,Ross Roberson,East,Milk,Groceries,1,42220.3,42220.3
+ORD1243,2024-07-26,Gerald Moyer,East,Jeans,Clothing,8,12642.02,101136.16
+ORD1244,2024-12-14,Shannon Davis,East,LED TV,Electronics,4,17147.42,68589.68
+ORD1245,2025-06-28,Joel Mccall,South,LED TV,Electronics,10,40246.88,402468.8
+ORD1246,2025-03-01,Renee Stark,East,Milk,Groceries,7,48895.83,342270.81
+ORD1247,2025-02-15,Brianna Franklin,South,Milk,Groceries,9,40062.43,360561.87
+ORD1248,2024-11-28,Victoria Rich,West,T-Shirt,Clothing,4,3937.8,15751.2
+ORD1249,2025-04-07,Mary Roberson,South,Jeans,Clothing,9,25295.62,227660.58
+ORD1250,2024-09-12,Renee Anderson,South,Rice,Groceries,9,28774.96,258974.64
+ORD1251,2025-02-01,Collin Morales,South,Smartphone,Electronics,1,15311.4,15311.4
+ORD1252,2025-07-08,John Moore,South,LED TV,Electronics,3,4051.82,12155.46
+ORD1253,2025-06-11,Wendy Carson,South,Jacket,Clothing,5,3831.47,19157.35
+ORD1254,2025-05-31,Justin Ortiz,North,Jeans,Clothing,6,39205.45,235232.7
+ORD1255,2025-06-15,Mr. Justin Snyder DDS,North,Smartphone,Electronics,7,15274.68,106922.76
+ORD1256,2024-10-16,Anna Jenkins,North,Laptop,Electronics,1,39766.8,39766.8
+ORD1257,2025-02-03,Joyce Johnson,West,LED TV,Electronics,8,23953.56,191628.48
+ORD1258,2025-05-12,Lydia Lam,North,Jeans,Clothing,6,18988.88,113933.28
+ORD1259,2024-09-02,Leslie Fletcher,East,Milk,Groceries,7,8124.72,56873.04
+ORD1260,2024-10-20,Randy Henderson,West,Milk,Groceries,2,17484.49,34968.98
+ORD1261,2025-07-08,Alyssa Johnson,East,Jacket,Clothing,2,10803.91,21607.82
+ORD1262,2025-05-28,Hannah Deleon,West,Jacket,Clothing,7,9462.47,66237.29
+ORD1263,2024-08-13,Greg Petty,East,Pulses,Groceries,10,4705.12,47051.2
+ORD1264,2024-09-11,John Pope,West,Bluetooth Speaker,Electronics,10,18827.19,188271.9
+ORD1265,2025-07-03,Toni Harris,South,Wall Art,Home Decor,2,49490.49,98980.98
+ORD1266,2024-11-25,Lori Miller,East,Curtains,Home Decor,2,23956.31,47912.62
+ORD1267,2025-01-01,Samantha Brown,North,Saree,Clothing,5,18081.05,90405.25
+ORD1268,2024-12-22,David Miller,West,Oil,Groceries,3,13125.95,39377.85
+ORD1269,2025-01-08,Jacob Henson,East,Milk,Groceries,9,12111.41,109002.69
+ORD1270,2024-10-12,Joseph Rogers,North,Pulses,Groceries,9,49317.11,443853.99
+ORD1271,2025-01-28,Tony Roberts,North,Jeans,Clothing,7,3568.08,24976.56
+ORD1272,2024-11-20,Randy Villa,West,Cushion Set,Home Decor,6,15772.01,94632.06
+ORD1273,2024-11-02,Ashley Joseph,West,Lamp,Home Decor,1,41453.07,41453.07
+ORD1274,2025-03-06,Mr. Tony Rice,North,Rice,Groceries,9,3209.79,28888.11
+ORD1275,2025-03-10,Joshua Padilla,South,Wall Art,Home Decor,4,44381.25,177525.0
+ORD1276,2024-09-01,Ian Jimenez,South,Curtains,Home Decor,4,44100.87,176403.48
+ORD1277,2024-12-12,Allen Lewis,South,T-Shirt,Clothing,3,3210.37,9631.11
+ORD1278,2025-06-09,Aaron Waters,West,Bluetooth Speaker,Electronics,5,28010.98,140054.9
+ORD1279,2024-11-19,Monica Sanford,South,Jeans,Clothing,7,7693.18,53852.26
+ORD1280,2025-03-04,Walter Gross,West,Milk,Groceries,8,14910.24,119281.92
+ORD1281,2025-01-30,David Wells,North,LED TV,Electronics,8,10603.14,84825.12
+ORD1282,2024-09-22,Stephen Nguyen,South,Smartphone,Electronics,3,10246.22,30738.66
+ORD1283,2025-04-30,William Brown,North,Wall Art,Home Decor,6,45774.95,274649.7
+ORD1284,2024-10-22,Kerri Armstrong,South,Bluetooth Speaker,Electronics,4,6706.56,26826.24
+ORD1285,2025-01-29,Lorraine Smith,South,Pulses,Groceries,9,9876.09,88884.81
+ORD1286,2025-06-21,Nicholas Petersen,North,Pulses,Groceries,10,10952.84,109528.4
+ORD1287,2025-03-26,Ryan Clements,East,T-Shirt,Clothing,5,21711.4,108557.0
+ORD1288,2024-10-02,Scott Armstrong,East,Laptop,Electronics,5,6472.74,32363.7
+ORD1289,2025-01-08,Mr. Brian Green,West,Wall Art,Home Decor,4,8702.54,34810.16
+ORD1290,2025-01-04,Michael Ray,North,T-Shirt,Clothing,6,31236.07,187416.42
+ORD1291,2024-09-30,Adam Lopez,North,Rice,Groceries,4,18286.62,73146.48
+ORD1292,2025-03-26,Briana Robertson,West,Jeans,Clothing,10,40898.92,408989.2
+ORD1293,2025-06-13,Maria Francis,North,Laptop,Electronics,3,9538.64,28615.92
+ORD1294,2025-06-20,Ashlee Dawson,West,Wall Art,Home Decor,7,41793.63,292555.41
+ORD1295,2025-01-05,Jeffrey Myers,East,T-Shirt,Clothing,3,8001.62,24004.86
+ORD1296,2024-09-17,Kelly Hopkins MD,East,Bluetooth Speaker,Electronics,5,351.84,1759.2
+ORD1297,2025-02-27,Megan Hernandez,North,Smartphone,Electronics,4,15653.89,62615.56
+ORD1298,2025-04-25,William Fletcher,South,Pulses,Groceries,9,37043.17,333388.53
+ORD1299,2025-06-19,Kayla Romero DDS,East,Rice,Groceries,4,17009.35,68037.4
+ORD1300,2024-10-20,James Johnson,East,Saree,Clothing,3,13300.49,39901.47
+ORD1301,2025-02-26,Veronica Lyons,East,Smartphone,Electronics,2,12186.27,24372.54
+ORD1302,2024-08-27,Tammy Young,East,Pulses,Groceries,7,8388.22,58717.54
+ORD1303,2025-02-04,Michelle Ward,South,Wall Art,Home Decor,8,21113.47,168907.76
+ORD1304,2025-01-04,Madison Silva,South,Lamp,Home Decor,10,20286.55,202865.5
+ORD1305,2025-02-12,Charles Murray,West,T-Shirt,Clothing,8,19815.41,158523.28
+ORD1306,2025-03-01,Kimberly Marks,West,Pulses,Groceries,10,34431.09,344310.9
+ORD1307,2025-04-19,Terri Hunter,East,Bluetooth Speaker,Electronics,1,25140.06,25140.06
+ORD1308,2024-07-14,Jonathan Sanchez,West,Cushion Set,Home Decor,10,45378.3,453783.0
+ORD1309,2025-01-06,Heather Lynn,West,Cushion Set,Home Decor,10,42055.73,420557.3
+ORD1310,2024-09-12,Edward Miller,East,Wall Art,Home Decor,6,8167.83,49006.98
+ORD1311,2024-08-12,Daniel Powell,West,Bluetooth Speaker,Electronics,7,46738.66,327170.62
+ORD1312,2024-10-17,Michael Novak,North,Jacket,Clothing,3,9592.6,28777.8
+ORD1313,2025-06-26,Eugene Burnett,North,Cushion Set,Home Decor,2,5376.23,10752.46
+ORD1314,2025-02-01,Ryan Vargas,South,Smartphone,Electronics,10,43202.02,432020.2
+ORD1315,2025-03-26,Barbara Grant,South,Bluetooth Speaker,Electronics,1,5247.75,5247.75
+ORD1316,2024-12-25,Joseph Lopez,East,Bluetooth Speaker,Electronics,3,36656.05,109968.15
+ORD1317,2024-10-30,Scott Hall,North,Jacket,Clothing,4,20077.69,80310.76
+ORD1318,2025-01-01,Leslie Lozano,South,Bluetooth Speaker,Electronics,7,41427.39,289991.73
+ORD1319,2024-09-22,Gina Lewis,South,Cushion Set,Home Decor,6,7334.32,44005.92
+ORD1320,2025-06-26,Brian Miller,East,Milk,Groceries,8,7784.33,62274.64
+ORD1321,2025-03-21,Brenda Braun,South,Smartphone,Electronics,5,24769.56,123847.8
+ORD1322,2025-06-15,Jill Erickson,South,Milk,Groceries,1,48755.41,48755.41
+ORD1323,2024-11-28,Jeremy Lawrence,North,Wall Art,Home Decor,2,23014.29,46028.58
+ORD1324,2025-01-20,Tiffany Tanner,South,Cushion Set,Home Decor,5,44056.29,220281.45
+ORD1325,2025-04-10,Ellen Rodriguez,East,Oil,Groceries,10,38589.87,385898.7
+ORD1326,2024-12-03,Raymond Wilkerson,East,T-Shirt,Clothing,3,20817.44,62452.32
+ORD1327,2025-06-11,Lindsay Hayes,East,Smartphone,Electronics,2,46002.95,92005.9
+ORD1328,2024-08-23,Cynthia Wilkerson,East,T-Shirt,Clothing,5,2448.71,12243.55
+ORD1329,2024-11-22,Erika Meyer,West,Oil,Groceries,10,965.96,9659.6
+ORD1330,2025-04-10,Michael Jackson,North,Smartphone,Electronics,3,45890.21,137670.63
+ORD1331,2025-01-29,Leslie Palmer,East,Milk,Groceries,1,15101.74,15101.74
+ORD1332,2025-06-10,Anthony Evans,East,Rice,Groceries,3,17480.8,52442.4
+ORD1333,2025-01-04,Karen Hale,East,Wall Art,Home Decor,9,32753.03,294777.27
+ORD1334,2025-05-10,Michael Hoffman,North,Jeans,Clothing,9,48053.17,432478.53
+ORD1335,2024-11-17,Jared Gonzalez,North,Saree,Clothing,5,42416.91,212084.55
+ORD1336,2025-05-14,Glenn Baker DVM,East,Cushion Set,Home Decor,5,20771.73,103858.65
+ORD1337,2024-08-15,Michael Jenkins,South,Wall Art,Home Decor,1,13978.94,13978.94
+ORD1338,2025-02-19,Steven Phelps,West,LED TV,Electronics,5,33056.17,165280.85
+ORD1339,2024-10-16,Barbara Decker,West,Rice,Groceries,8,12727.6,101820.8
+ORD1340,2025-07-12,Sheila Smith,East,Cushion Set,Home Decor,5,44789.73,223948.65
+ORD1341,2025-02-09,Andrew Miller,East,LED TV,Electronics,3,16456.36,49369.08
+ORD1342,2025-07-01,Diane Rodriguez,West,Lamp,Home Decor,6,47398.49,284390.94
+ORD1343,2025-05-10,Michael Smith,West,Wall Art,Home Decor,5,43395.65,216978.25
+ORD1344,2025-01-13,Lawrence Richards,South,Curtains,Home Decor,8,4949.58,39596.64
+ORD1345,2025-04-23,Ryan James,East,Milk,Groceries,9,27541.34,247872.06
+ORD1346,2025-03-19,Sharon Hayes,West,Rice,Groceries,1,25036.71,25036.71
+ORD1347,2025-05-31,Marco Pratt,West,Rice,Groceries,7,28354.45,198481.15
+ORD1348,2025-05-07,Marissa Walter,East,Smartphone,Electronics,6,18370.23,110221.38
+ORD1349,2024-10-21,Jordan Edwards,East,Wall Art,Home Decor,9,43309.87,389788.83
+ORD1350,2024-10-22,Kevin Lee,North,Saree,Clothing,9,539.45,4855.05
+ORD1351,2024-09-28,Kelly Carney,West,Cushion Set,Home Decor,4,31398.8,125595.2
+ORD1352,2024-09-21,Christine Palmer,West,Lamp,Home Decor,5,43875.94,219379.7
+ORD1353,2024-08-20,Troy Bailey,North,Saree,Clothing,3,33872.68,101618.04
+ORD1354,2024-12-05,Sharon Cox,East,Wall Art,Home Decor,1,31791.35,31791.35
+ORD1355,2025-07-01,Chloe Richardson,North,Jacket,Clothing,1,2293.02,2293.02
+ORD1356,2024-12-17,Thomas Hart,North,LED TV,Electronics,2,1257.77,2515.54
+ORD1357,2025-01-21,John Wilson,East,T-Shirt,Clothing,6,9414.26,56485.56
+ORD1358,2024-07-24,Steven Davis,East,Wall Art,Home Decor,9,48484.24,436358.16
+ORD1359,2025-02-21,Kathy Stevenson,North,Bluetooth Speaker,Electronics,6,21793.65,130761.9
+ORD1360,2025-04-03,Benjamin Greene,East,Pulses,Groceries,9,45294.89,407654.01
+ORD1361,2024-11-30,Johnny Williams,South,T-Shirt,Clothing,1,32241.22,32241.22
+ORD1362,2024-10-03,Gregory Carlson,North,T-Shirt,Clothing,6,28862.62,173175.72
+ORD1363,2024-09-30,Craig Chavez,South,Oil,Groceries,3,6436.74,19310.22
+ORD1364,2024-12-13,Bobby Clark,North,Rice,Groceries,8,7532.1,60256.8
+ORD1365,2025-07-08,Erika Chang,South,Cushion Set,Home Decor,2,42970.07,85940.14
+ORD1366,2024-09-23,Danny Price,North,Saree,Clothing,9,44168.52,397516.68
+ORD1367,2024-10-06,Travis Valencia,South,LED TV,Electronics,7,5190.91,36336.37
+ORD1368,2024-12-15,Marcia Palmer,East,Rice,Groceries,10,38384.76,383847.6
+ORD1369,2025-05-03,Jeffrey Clark,South,Laptop,Electronics,6,20709.15,124254.9
+ORD1370,2024-08-11,Ms. Helen Rodriguez,South,Jacket,Clothing,6,42512.4,255074.4
+ORD1371,2025-01-13,Ryan Williams,North,Jeans,Clothing,8,39977.82,319822.56
+ORD1372,2025-06-08,Jennifer Baird,East,T-Shirt,Clothing,2,8609.84,17219.68
+ORD1373,2024-09-18,Ryan Stephenson II,South,Cushion Set,Home Decor,5,33321.33,166606.65
+ORD1374,2025-07-05,Kelly Leonard,West,Cushion Set,Home Decor,5,15811.36,79056.8
+ORD1375,2025-06-05,Joel Webb,West,Milk,Groceries,1,28694.58,28694.58
+ORD1376,2024-08-27,Terri Mccullough,West,Jacket,Clothing,9,46370.63,417335.67
+ORD1377,2024-11-29,Jennifer Martinez,West,Rice,Groceries,9,36054.04,324486.36
+ORD1378,2025-06-11,Kimberly Larson,East,Milk,Groceries,4,32024.82,128099.28
+ORD1379,2025-05-13,Emily Martinez,South,Saree,Clothing,3,4145.32,12435.96
+ORD1380,2024-09-02,Heather Walker,West,Jacket,Clothing,1,2695.1,2695.1
+ORD1381,2024-12-14,Stacie Sanders,East,Saree,Clothing,7,48381.07,338667.49
+ORD1382,2024-07-17,Anthony Jackson,North,Smartphone,Electronics,10,43602.57,436025.7
+ORD1383,2024-12-24,Scott Martin,South,Curtains,Home Decor,7,9810.14,68670.98
+ORD1384,2024-12-02,Larry Ramsey,East,Bluetooth Speaker,Electronics,7,16061.97,112433.79
+ORD1385,2024-08-20,Susan Bryant,South,Wall Art,Home Decor,8,48082.21,384657.68
+ORD1386,2025-03-27,Brandon Barker,North,Cushion Set,Home Decor,6,1035.24,6211.44
+ORD1387,2024-09-05,Alice Little,North,Laptop,Electronics,10,16883.85,168838.5
+ORD1388,2025-04-18,Christopher Lucas,West,Lamp,Home Decor,5,24132.69,120663.45
+ORD1389,2025-04-18,Andrew Perez,East,Smartphone,Electronics,9,14168.4,127515.6
+ORD1390,2025-04-12,Jonathan Le,South,Jeans,Clothing,4,17097.42,68389.68
+ORD1391,2024-07-24,Carrie Wiggins,East,Cushion Set,Home Decor,8,16865.56,134924.48
+ORD1392,2025-03-17,Robert Hancock,West,Jacket,Clothing,5,21581.08,107905.4
+ORD1393,2024-08-30,Christina Moore,West,Smartphone,Electronics,2,44806.92,89613.84
+ORD1394,2024-12-07,Charles Ward,South,Smartphone,Electronics,3,6214.09,18642.27
+ORD1395,2025-03-12,Tyler Mcdonald,West,Wall Art,Home Decor,3,12120.94,36362.82
+ORD1396,2024-10-19,Russell Mcfarland,East,Lamp,Home Decor,9,24129.51,217165.59
+ORD1397,2025-06-26,Alan Kaufman,West,Milk,Groceries,1,8883.24,8883.24
+ORD1398,2025-05-22,Randall Ryan,North,Cushion Set,Home Decor,7,37687.56,263812.92
+ORD1399,2025-06-19,Ronnie Lopez,East,Laptop,Electronics,7,20286.82,142007.74
+ORD1400,2025-05-08,Roy Harvey,North,Jeans,Clothing,5,6857.02,34285.1
+ORD1401,2024-10-08,Gina Wilson,North,Oil,Groceries,4,12970.34,51881.36
+ORD1402,2024-08-02,Brian Sharp,South,Laptop,Electronics,10,20093.31,200933.1
+ORD1403,2025-01-11,Jeffrey Flores,North,Curtains,Home Decor,6,15074.87,90449.22
+ORD1404,2024-07-14,Calvin Hudson,North,Jeans,Clothing,9,26872.1,241848.9
+ORD1405,2024-08-14,Mary Marquez,West,Jeans,Clothing,4,17721.08,70884.32
+ORD1406,2024-12-29,Tyler Duke,West,Cushion Set,Home Decor,6,11809.62,70857.72
+ORD1407,2025-06-11,Jacqueline Campbell,South,Laptop,Electronics,8,11784.29,94274.32
+ORD1408,2025-05-08,Patrick Nash,East,Curtains,Home Decor,2,9195.48,18390.96
+ORD1409,2025-02-18,Brooke Cummings,East,Pulses,Groceries,4,2681.96,10727.84
+ORD1410,2025-04-30,Jonathan Hill,West,Rice,Groceries,6,21168.14,127008.84
+ORD1411,2025-06-11,Jacob Campos,West,Curtains,Home Decor,3,47068.21,141204.63
+ORD1412,2024-10-22,Alexandra Zimmerman,East,Jacket,Clothing,3,47839.65,143518.95
+ORD1413,2025-06-12,Kelly Cook,West,Oil,Groceries,2,33469.6,66939.2
+ORD1414,2024-10-22,Melissa Adams,South,Lamp,Home Decor,4,49879.81,199519.24
+ORD1415,2024-11-10,Lindsey Carter,South,Curtains,Home Decor,1,48854.77,48854.77
+ORD1416,2024-12-03,Crystal Atkinson,West,Milk,Groceries,9,42266.84,380401.56
+ORD1417,2025-02-09,Joseph Jackson,West,LED TV,Electronics,4,28462.02,113848.08
+ORD1418,2025-04-28,Cynthia Nelson,East,Pulses,Groceries,3,11428.95,34286.85
+ORD1419,2024-07-24,Ann Richardson DVM,West,Oil,Groceries,9,12816.2,115345.8
+ORD1420,2025-04-23,Linda Warren,South,Milk,Groceries,7,45833.14,320831.98
+ORD1421,2024-12-06,Laura Mclean,North,Lamp,Home Decor,1,28213.59,28213.59
+ORD1422,2025-05-27,Kevin Thomas,East,Bluetooth Speaker,Electronics,4,33268.3,133073.2
+ORD1423,2025-03-06,David Gibbs,North,Smartphone,Electronics,7,32638.18,228467.26
+ORD1424,2025-06-01,George Blair,East,Jacket,Clothing,2,23661.89,47323.78
+ORD1425,2024-11-03,Erika Carlson,West,Bluetooth Speaker,Electronics,3,16297.77,48893.31
+ORD1426,2024-09-14,Stephanie Gutierrez,East,Saree,Clothing,7,996.53,6975.71
+ORD1427,2025-05-07,Bruce Delacruz,East,Jacket,Clothing,1,47769.26,47769.26
+ORD1428,2024-12-23,Ronald Boyer MD,South,Wall Art,Home Decor,10,42336.84,423368.4
+ORD1429,2025-04-08,Susan Moses,North,Wall Art,Home Decor,1,530.82,530.82
+ORD1430,2025-05-07,Wesley Stephens,West,Rice,Groceries,6,28994.09,173964.54
+ORD1431,2025-07-06,Megan Mcfarland,North,Jacket,Clothing,7,45757.85,320304.95
+ORD1432,2025-04-13,Johnny Simpson,South,Jeans,Clothing,4,18212.53,72850.12
+ORD1433,2024-11-22,Sabrina Wood,East,Pulses,Groceries,3,35597.44,106792.32
+ORD1434,2024-12-20,Rachel Morgan,South,Rice,Groceries,9,2664.75,23982.75
+ORD1435,2024-07-22,Mr. Dennis Smith,West,Jeans,Clothing,9,1889.4,17004.6
+ORD1436,2025-01-05,Jeffrey Russell,West,Laptop,Electronics,1,14823.74,14823.74
+ORD1437,2024-11-24,Thomas Thomas,East,Curtains,Home Decor,4,103.0,412.0
+ORD1438,2025-04-14,Thomas Browning,East,Bluetooth Speaker,Electronics,3,38865.9,116597.7
+ORD1439,2024-08-07,John Smith,West,Lamp,Home Decor,7,43395.19,303766.33
+ORD1440,2024-08-28,Nicholas Hess,West,T-Shirt,Clothing,6,37118.69,222712.14
+ORD1441,2025-01-11,Joseph Johnson,South,Bluetooth Speaker,Electronics,9,18767.22,168904.98
+ORD1442,2024-09-29,Katrina Townsend,North,Wall Art,Home Decor,8,10419.47,83355.76
+ORD1443,2025-02-23,Chelsea Palmer,North,Cushion Set,Home Decor,1,10769.77,10769.77
+ORD1444,2025-03-18,Scott Johnson,South,Smartphone,Electronics,4,28923.57,115694.28
+ORD1445,2025-06-24,Jordan Stone,East,Saree,Clothing,8,37615.26,300922.08
+ORD1446,2024-12-10,Mark Baker,East,Rice,Groceries,7,23487.55,164412.85
+ORD1447,2024-10-16,Jeffrey Morrison,North,T-Shirt,Clothing,8,24172.2,193377.6
+ORD1448,2024-12-09,Andrew Gomez,North,Laptop,Electronics,7,25553.0,178871.0
+ORD1449,2024-07-23,Joe Orozco,South,Jacket,Clothing,8,9090.33,72722.64
+ORD1450,2025-06-17,Megan Bruce DVM,North,Curtains,Home Decor,6,30217.85,181307.1
+ORD1451,2025-02-17,Cheryl Martinez,East,Wall Art,Home Decor,5,2376.03,11880.15
+ORD1452,2024-08-18,Erin Peck,South,Oil,Groceries,8,20265.23,162121.84
+ORD1453,2025-01-08,Debra Elliott,South,Saree,Clothing,4,47571.74,190286.96
+ORD1454,2024-09-14,Dennis Barnes,North,Wall Art,Home Decor,4,28481.53,113926.12
+ORD1455,2025-04-16,Andrew Black,North,Saree,Clothing,1,24892.12,24892.12
+ORD1456,2025-01-01,Debra Jennings,North,Rice,Groceries,3,15900.1,47700.3
+ORD1457,2025-05-05,Kimberly Perez,East,Saree,Clothing,4,36689.42,146757.68
+ORD1458,2024-07-16,Alex Moody,West,Jacket,Clothing,5,18436.82,92184.1
+ORD1459,2025-02-23,Zachary Wells,North,Saree,Clothing,4,40842.66,163370.64
+ORD1460,2024-10-19,Shane Wallace,East,Jeans,Clothing,8,30723.67,245789.36
+ORD1461,2025-04-16,Michael Salazar,North,Wall Art,Home Decor,9,23905.92,215153.28
+ORD1462,2025-03-21,Cindy Anderson,North,Bluetooth Speaker,Electronics,4,46870.74,187482.96
+ORD1463,2025-01-10,Amanda Walker,North,Rice,Groceries,6,34587.51,207525.06
+ORD1464,2025-03-23,Keith Mitchell,East,Rice,Groceries,9,39992.69,359934.21
+ORD1465,2025-02-11,Kenneth Ortiz,West,Bluetooth Speaker,Electronics,2,21172.73,42345.46
+ORD1466,2025-04-06,John Stuart,South,Curtains,Home Decor,5,49913.6,249568.0
+ORD1467,2024-11-29,James Johnson,North,Wall Art,Home Decor,2,15872.4,31744.8
+ORD1468,2025-05-11,Amanda Cobb,East,LED TV,Electronics,7,3232.28,22625.96
+ORD1469,2024-12-02,Miguel Wall,West,T-Shirt,Clothing,7,46318.78,324231.46
+ORD1470,2024-09-12,James Barber,South,Wall Art,Home Decor,8,11734.89,93879.12
+ORD1471,2024-11-13,Karen Gonzales,North,Oil,Groceries,4,23279.06,93116.24
+ORD1472,2025-01-02,Julie Miller,West,LED TV,Electronics,5,27330.99,136654.95
+ORD1473,2024-08-31,Sara Werner,East,Milk,Groceries,5,10783.29,53916.45
+ORD1474,2025-01-30,Alicia Paul,South,Jacket,Clothing,4,23120.01,92480.04
+ORD1475,2025-05-26,Angel Patel,North,Oil,Groceries,5,11252.93,56264.65
+ORD1476,2024-09-26,Michelle Randall,South,T-Shirt,Clothing,9,15536.2,139825.8
+ORD1477,2024-11-01,Barbara Clark,East,Jacket,Clothing,8,35196.28,281570.24
+ORD1478,2025-06-01,Donald Greene,East,Milk,Groceries,6,10151.03,60906.18
+ORD1479,2025-02-27,Gabrielle Weiss,South,Wall Art,Home Decor,10,2344.89,23448.9
+ORD1480,2025-04-17,Tammy Williams,East,Oil,Groceries,3,12417.16,37251.48
+ORD1481,2024-08-29,Sierra Taylor,East,Jacket,Clothing,8,42388.77,339110.16
+ORD1482,2025-06-26,Ashley Hodge,North,Laptop,Electronics,1,4319.27,4319.27
+ORD1483,2025-07-05,Brittany Williams,South,T-Shirt,Clothing,7,25814.22,180699.54
+ORD1484,2025-07-03,Kenneth Zavala,West,Milk,Groceries,7,47728.34,334098.38
+ORD1485,2025-05-28,Kendra Torres,North,Rice,Groceries,4,12846.99,51387.96
+ORD1486,2025-01-15,Michael Ramos,South,Oil,Groceries,8,35302.57,282420.56
+ORD1487,2024-10-30,Carlos Collins,North,Wall Art,Home Decor,10,11357.18,113571.8
+ORD1488,2025-07-07,Michael Moody,South,Saree,Clothing,1,22581.18,22581.18
+ORD1489,2025-03-03,Todd Cain,North,LED TV,Electronics,5,5438.24,27191.2
+ORD1490,2024-10-11,Deborah Buckley,West,LED TV,Electronics,1,21446.95,21446.95
+ORD1491,2024-12-15,Curtis Herring,North,Smartphone,Electronics,5,35358.07,176790.35
+ORD1492,2024-12-18,John Grant,West,Laptop,Electronics,4,40207.86,160831.44
+ORD1493,2025-05-03,Benjamin Brennan,South,T-Shirt,Clothing,3,43976.11,131928.33
+ORD1494,2025-06-17,Carrie Bennett,East,Jeans,Clothing,10,39346.09,393460.9
+ORD1495,2024-08-15,Jamie Mcdonald,North,Smartphone,Electronics,3,41756.31,125268.93
+ORD1496,2025-05-18,Deanna Webb,South,Laptop,Electronics,1,17309.51,17309.51
+ORD1497,2025-02-28,Ashley Collins,East,Jacket,Clothing,5,34058.41,170292.05
+ORD1498,2024-07-30,Alexis Schmitt,East,Jacket,Clothing,10,45882.05,458820.5
+ORD1499,2025-06-07,Margaret Owen,West,Rice,Groceries,6,28384.46,170306.76
+ORD1500,2025-04-06,Matthew Schaefer,South,Pulses,Groceries,3,20765.39,62296.17
+ORD1501,2025-04-12,Diana Oneill,East,Saree,Clothing,2,48616.06,97232.12
+ORD1502,2024-10-31,Mary Mata,South,Jacket,Clothing,3,5761.89,17285.67
+ORD1503,2024-09-19,David Mcclure,West,Curtains,Home Decor,10,47560.85,475608.5
+ORD1504,2025-04-14,James Tran,North,T-Shirt,Clothing,8,11893.7,95149.6
+ORD1505,2024-09-16,Jessica Rodgers,West,Saree,Clothing,7,26446.86,185128.02
+ORD1506,2024-12-09,Lauren Aguilar,North,Wall Art,Home Decor,10,25492.8,254928.0
+ORD1507,2025-05-26,Michael Ortega,East,Saree,Clothing,5,147.86,739.3
+ORD1508,2024-09-19,Natalie Bates,South,Lamp,Home Decor,10,15132.8,151328.0
+ORD1509,2024-08-13,Curtis Booth,North,Wall Art,Home Decor,8,41235.79,329886.32
+ORD1510,2024-11-27,Joel Alvarez,East,Lamp,Home Decor,4,4087.03,16348.12
+ORD1511,2024-09-06,Michael Valdez,North,LED TV,Electronics,9,15629.12,140662.08
+ORD1512,2024-12-09,Gina Carey,West,Milk,Groceries,1,45217.48,45217.48
+ORD1513,2024-10-25,Jessica Durham,East,Oil,Groceries,8,8181.35,65450.8
+ORD1514,2025-03-29,Kimberly Long,West,Laptop,Electronics,9,16589.01,149301.09
+ORD1515,2024-08-25,Brett Evans,South,Oil,Groceries,1,35888.08,35888.08
+ORD1516,2025-01-12,Richard Fox,East,Smartphone,Electronics,5,24262.2,121311.0
+ORD1517,2025-05-15,David Bird,East,Milk,Groceries,10,34494.63,344946.3
+ORD1518,2024-11-15,Mark Parker,North,Bluetooth Speaker,Electronics,7,11147.22,78030.54
+ORD1519,2024-12-17,April Stone,South,T-Shirt,Clothing,4,27490.42,109961.68
+ORD1520,2025-01-05,Brandy Ellison,West,Lamp,Home Decor,5,5047.76,25238.8
+ORD1521,2025-05-22,Thomas Walker,East,Jacket,Clothing,6,48187.35,289124.1
+ORD1522,2024-10-08,Jacob Wright,South,Wall Art,Home Decor,7,849.18,5944.26
+ORD1523,2025-04-27,Lindsay Reilly,South,Milk,Groceries,9,13000.37,117003.33
+ORD1524,2024-12-15,Richard Patel,South,Rice,Groceries,6,6382.3,38293.8
+ORD1525,2024-11-13,Nichole Harmon DDS,East,Bluetooth Speaker,Electronics,1,30087.38,30087.38
+ORD1526,2024-10-03,Stephen Bolton,South,Rice,Groceries,1,20177.26,20177.26
+ORD1527,2025-06-24,Robert Walsh,West,Oil,Groceries,9,27631.28,248681.52
+ORD1528,2024-12-01,Brenda Bender,East,Saree,Clothing,8,40984.34,327874.72
+ORD1529,2025-06-14,Kyle Joseph,East,Lamp,Home Decor,8,17115.59,136924.72
+ORD1530,2024-12-27,Donald Reeves,East,Lamp,Home Decor,1,16417.34,16417.34
+ORD1531,2024-07-28,Cindy Kaufman,West,Curtains,Home Decor,1,14432.83,14432.83
+ORD1532,2025-03-03,Jacqueline Collins,West,Jacket,Clothing,5,32906.41,164532.05
+ORD1533,2024-09-01,Ronald Bell,North,Pulses,Groceries,5,40307.78,201538.9
+ORD1534,2025-06-19,Shane White,West,Cushion Set,Home Decor,6,20498.26,122989.56
+ORD1535,2025-07-04,Kimberly Taylor,East,Wall Art,Home Decor,10,6273.75,62737.5
+ORD1536,2024-07-28,Sandra Patrick,East,Lamp,Home Decor,1,20624.6,20624.6
+ORD1537,2024-09-08,Jessica Chavez,South,Smartphone,Electronics,8,36681.45,293451.6
+ORD1538,2024-12-31,Gregg Adams,East,Cushion Set,Home Decor,5,47679.83,238399.15
+ORD1539,2024-09-14,Jonathan Hopkins,North,Milk,Groceries,3,28403.09,85209.27
+ORD1540,2024-09-01,Dr. Natasha Chambers,West,Oil,Groceries,7,10474.9,73324.3
+ORD1541,2025-02-08,Andrew Farley,West,Lamp,Home Decor,6,39642.36,237854.16
+ORD1542,2024-09-18,Mark Woods,East,Smartphone,Electronics,9,2766.33,24896.97
+ORD1543,2025-05-02,Jonathan Johnson,North,Smartphone,Electronics,4,41405.68,165622.72
+ORD1544,2025-06-30,Matthew Santos,North,Oil,Groceries,3,49268.51,147805.53
+ORD1545,2025-02-15,Adam Pope,North,Smartphone,Electronics,3,48213.47,144640.41
+ORD1546,2024-11-07,Troy Fernandez,South,LED TV,Electronics,9,3274.66,29471.94
+ORD1547,2024-12-13,Karen Hernandez,North,LED TV,Electronics,7,39600.29,277202.03
+ORD1548,2024-08-27,Shannon Espinoza,West,Pulses,Groceries,6,48584.53,291507.18
+ORD1549,2024-07-18,Ronald Garcia PhD,South,Pulses,Groceries,3,33957.25,101871.75
+ORD1550,2024-10-14,Robert Robinson,South,Pulses,Groceries,6,12824.21,76945.26
+ORD1551,2024-10-03,Shannon Watson,East,LED TV,Electronics,8,3851.54,30812.32
+ORD1552,2024-09-18,Laurie Lopez,South,Milk,Groceries,5,7997.61,39988.05
+ORD1553,2025-05-11,Erica Alvarado,South,Laptop,Electronics,1,38197.89,38197.89
+ORD1554,2024-08-19,Aaron Taylor,South,Rice,Groceries,1,30566.54,30566.54
+ORD1555,2024-12-23,Ashley Lewis,South,Jeans,Clothing,4,29192.04,116768.16
+ORD1556,2025-03-28,Tina Sharp,North,Bluetooth Speaker,Electronics,3,26599.52,79798.56
+ORD1557,2024-12-25,Brandon Jackson,North,LED TV,Electronics,10,25080.65,250806.5
+ORD1558,2024-08-03,Alexandra Lee,West,Pulses,Groceries,1,16405.63,16405.63
+ORD1559,2025-03-06,Kevin Coffey,North,Rice,Groceries,7,45490.46,318433.22
+ORD1560,2024-12-17,Donald Harris,East,Wall Art,Home Decor,9,16413.34,147720.06
+ORD1561,2024-07-14,Mary Peterson,West,Oil,Groceries,7,29691.21,207838.47
+ORD1562,2024-11-11,Steven Foster,West,Jacket,Clothing,8,27180.8,217446.4
+ORD1563,2024-08-26,Amber Chambers,South,Bluetooth Speaker,Electronics,4,47977.66,191910.64
+ORD1564,2024-09-18,Casey Anderson,West,Saree,Clothing,8,1167.54,9340.32
+ORD1565,2025-02-25,Nancy Davis DVM,North,Bluetooth Speaker,Electronics,1,18539.67,18539.67
+ORD1566,2024-11-01,Veronica Harvey,North,Lamp,Home Decor,8,49383.76,395070.08
+ORD1567,2025-01-29,Angela Thompson,North,Curtains,Home Decor,2,3812.56,7625.12
+ORD1568,2024-09-09,Mary Mills,North,Saree,Clothing,4,35736.67,142946.68
+ORD1569,2024-09-15,Marcus King,North,Cushion Set,Home Decor,8,32058.6,256468.8
+ORD1570,2024-12-04,William Nichols,East,Lamp,Home Decor,10,45656.45,456564.5
+ORD1571,2025-02-26,Dana Green,North,Wall Art,Home Decor,8,39258.47,314067.76
+ORD1572,2024-07-16,Connie Hatfield,East,Cushion Set,Home Decor,8,44098.41,352787.28
+ORD1573,2025-04-21,John Hudson,North,LED TV,Electronics,5,38064.68,190323.4
+ORD1574,2025-02-08,Timothy Gilbert,East,Pulses,Groceries,5,15318.86,76594.3
+ORD1575,2024-09-15,Joanna Allen,North,Wall Art,Home Decor,2,8787.84,17575.68
+ORD1576,2024-11-18,Anna Martin,South,Laptop,Electronics,6,30192.37,181154.22
+ORD1577,2025-01-16,Christine Nguyen,North,Lamp,Home Decor,1,36288.6,36288.6
+ORD1578,2025-03-19,Tyrone Christian,North,Cushion Set,Home Decor,10,36464.92,364649.2
+ORD1579,2024-10-13,Elizabeth Vasquez,North,Laptop,Electronics,4,39730.44,158921.76
+ORD1580,2025-03-24,Jeffrey Brown,South,Wall Art,Home Decor,5,12780.87,63904.35
+ORD1581,2025-03-26,Randall Bass,South,Cushion Set,Home Decor,3,31010.96,93032.88
+ORD1582,2025-01-26,Debbie Dickson,West,Oil,Groceries,7,44733.89,313137.23
+ORD1583,2025-04-28,Linda Roberts,South,Saree,Clothing,6,709.01,4254.06
+ORD1584,2024-08-02,Jason Carson,East,Laptop,Electronics,3,11234.01,33702.03
+ORD1585,2025-02-28,Sharon Clark,North,Smartphone,Electronics,5,45054.42,225272.1
+ORD1586,2024-07-25,Olivia Thompson,South,LED TV,Electronics,1,15700.09,15700.09
+ORD1587,2024-11-28,Casey Holland,North,Oil,Groceries,4,17383.04,69532.16
+ORD1588,2025-02-14,Pamela Walker,South,Smartphone,Electronics,5,37125.68,185628.4
+ORD1589,2025-05-29,Michael Short,South,Saree,Clothing,1,34816.44,34816.44
+ORD1590,2024-10-25,Miguel Williams MD,West,T-Shirt,Clothing,5,37632.12,188160.6
+ORD1591,2024-08-18,Lindsey Adams,North,Pulses,Groceries,9,41885.49,376969.41
+ORD1592,2025-01-29,Edward Hays,South,Pulses,Groceries,4,49092.57,196370.28
+ORD1593,2024-12-13,Justin Sharp,West,Laptop,Electronics,1,29152.86,29152.86
+ORD1594,2024-08-22,Andrew Turner,North,Pulses,Groceries,7,12496.02,87472.14
+ORD1595,2025-01-22,Timothy Vance,North,Jacket,Clothing,10,49815.57,498155.7
+ORD1596,2024-08-27,Todd Woodward,West,Saree,Clothing,4,47731.05,190924.2
+ORD1597,2025-04-05,Gregory Ruiz,North,Laptop,Electronics,6,26643.48,159860.88
+ORD1598,2025-07-08,Lisa Gonzales,West,Rice,Groceries,4,38315.5,153262.0
+ORD1599,2025-06-12,Dylan Murphy,North,Jacket,Clothing,6,23551.27,141307.62
+ORD1600,2025-01-31,Katie Gonzalez,West,T-Shirt,Clothing,5,40557.94,202789.7
+ORD1601,2024-09-02,Daniel Jackson,East,Laptop,Electronics,2,48186.09,96372.18
+ORD1602,2025-01-11,Kenneth King,North,Pulses,Groceries,5,44589.43,222947.15
+ORD1603,2024-11-27,Thomas Cochran,North,Jacket,Clothing,10,8420.08,84200.8
+ORD1604,2025-04-15,Rebecca Silva,North,T-Shirt,Clothing,4,34880.57,139522.28
+ORD1605,2025-06-10,Shannon Jones,East,Lamp,Home Decor,8,21640.67,173125.36
+ORD1606,2025-06-10,Jared Murray,East,Lamp,Home Decor,9,27923.84,251314.56
+ORD1607,2024-10-16,Charles Gibson,West,Rice,Groceries,9,3360.09,30240.81
+ORD1608,2024-11-29,Kelly Zamora,West,Saree,Clothing,10,13006.35,130063.5
+ORD1609,2025-05-11,Joseph Medina Jr.,North,LED TV,Electronics,1,21611.72,21611.72
+ORD1610,2024-11-17,Amber Johnson,North,T-Shirt,Clothing,10,29915.66,299156.6
+ORD1611,2025-02-23,Jacqueline Reynolds,East,Smartphone,Electronics,8,35694.31,285554.48
+ORD1612,2024-11-28,Laura Romero,North,LED TV,Electronics,1,44272.6,44272.6
+ORD1613,2025-01-21,Mrs. Sabrina Griffin MD,West,Pulses,Groceries,9,26520.88,238687.92
+ORD1614,2024-08-23,Catherine Contreras,East,Jeans,Clothing,9,849.93,7649.37
+ORD1615,2024-10-17,Melissa Rodriguez,West,Wall Art,Home Decor,5,27776.08,138880.4
+ORD1616,2025-02-01,Seth Mcdonald,West,Curtains,Home Decor,8,29774.86,238198.88
+ORD1617,2025-03-31,Martin Gates,West,Saree,Clothing,9,24852.44,223671.96
+ORD1618,2024-08-08,Maria Vasquez,West,Saree,Clothing,9,47580.73,428226.57
+ORD1619,2025-06-28,Danielle Taylor,West,Bluetooth Speaker,Electronics,4,20374.89,81499.56
+ORD1620,2024-07-14,Micheal Oneill,East,Bluetooth Speaker,Electronics,9,20537.6,184838.4
+ORD1621,2024-11-26,David Jacobs,North,Milk,Groceries,2,48813.1,97626.2
+ORD1622,2024-09-23,Jesus Cook,East,Jeans,Clothing,10,16645.35,166453.5
+ORD1623,2024-08-27,Austin Dorsey,North,Cushion Set,Home Decor,9,7569.12,68122.08
+ORD1624,2025-01-12,Brian Thompson,West,Smartphone,Electronics,5,44849.22,224246.1
+ORD1625,2025-06-06,Jacob Montgomery,North,Smartphone,Electronics,1,27717.23,27717.23
+ORD1626,2025-03-30,Roger Potter,East,Jacket,Clothing,10,38313.74,383137.4
+ORD1627,2025-04-28,Lauren Wilson,North,Bluetooth Speaker,Electronics,10,39292.02,392920.2
+ORD1628,2025-05-10,Lisa Austin,North,Jacket,Clothing,5,45633.95,228169.75
+ORD1629,2024-12-13,Derek Gomez,East,Bluetooth Speaker,Electronics,3,48922.36,146767.08
+ORD1630,2025-07-06,Michael Garcia,South,LED TV,Electronics,1,15649.5,15649.5
+ORD1631,2025-06-01,Timothy Evans,North,Smartphone,Electronics,2,8347.46,16694.92
+ORD1632,2024-08-22,Gina Smith,South,Bluetooth Speaker,Electronics,2,22179.87,44359.74
+ORD1633,2025-01-02,Alexis Atkinson,East,Milk,Groceries,5,31977.97,159889.85
+ORD1634,2024-08-28,Allen Murphy,South,LED TV,Electronics,4,24511.51,98046.04
+ORD1635,2024-10-26,Margaret Reynolds DVM,South,Milk,Groceries,2,13258.94,26517.88
+ORD1636,2024-11-26,Robert Wilson,South,Curtains,Home Decor,4,1427.18,5708.72
+ORD1637,2025-02-09,Jeffrey Miller,East,Milk,Groceries,8,11338.26,90706.08
+ORD1638,2025-01-23,Jennifer Harper,North,Lamp,Home Decor,6,28588.7,171532.2
+ORD1639,2024-12-10,Gary Gordon,East,T-Shirt,Clothing,6,39588.24,237529.44
+ORD1640,2025-02-02,Michael Hendricks,North,Cushion Set,Home Decor,2,23606.49,47212.98
+ORD1641,2024-09-04,Shawn Dickerson,South,Rice,Groceries,5,40819.85,204099.25
+ORD1642,2024-09-04,Ariana Chen,East,Lamp,Home Decor,2,11239.3,22478.6
+ORD1643,2024-10-21,Thomas Mullins,East,T-Shirt,Clothing,5,6398.86,31994.3
+ORD1644,2025-01-05,Timothy Scott,South,Cushion Set,Home Decor,5,36411.94,182059.7
+ORD1645,2025-05-09,Brenda Fry,East,Smartphone,Electronics,5,19721.77,98608.85
+ORD1646,2025-06-10,Steven Rasmussen,South,Jacket,Clothing,7,24368.34,170578.38
+ORD1647,2024-07-29,Gabriel Webb,West,Curtains,Home Decor,9,33830.82,304477.38
+ORD1648,2025-05-04,Mary Bryant,South,Milk,Groceries,4,39914.55,159658.2
+ORD1649,2024-12-30,Dana Graham,East,T-Shirt,Clothing,2,31458.98,62917.96
+ORD1650,2025-05-23,James Miller,South,Jacket,Clothing,4,26433.32,105733.28
+ORD1651,2025-06-28,Christine Smith,West,Curtains,Home Decor,5,1526.03,7630.15
+ORD1652,2025-02-15,Stephen White,East,Curtains,Home Decor,7,16355.99,114491.93
+ORD1653,2024-08-28,Christine Green,South,Cushion Set,Home Decor,6,49065.26,294391.56
+ORD1654,2024-10-24,Rachael Schultz,East,Milk,Groceries,2,10383.98,20767.96
+ORD1655,2025-06-16,Margaret Morrow,South,Jacket,Clothing,2,13939.02,27878.04
+ORD1656,2024-08-05,Kevin Gilmore,North,Lamp,Home Decor,5,23521.12,117605.6
+ORD1657,2024-07-31,Robert Burgess,East,Wall Art,Home Decor,2,31982.93,63965.86
+ORD1658,2025-06-19,Eileen Robbins,East,Bluetooth Speaker,Electronics,2,39666.45,79332.9
+ORD1659,2025-06-15,Robert Hudson,North,Smartphone,Electronics,6,37774.94,226649.64
+ORD1660,2025-06-01,Paul Gaines,North,Rice,Groceries,9,18408.6,165677.4
+ORD1661,2024-10-14,Lauren Wilson,South,Pulses,Groceries,4,15991.26,63965.04
+ORD1662,2024-11-18,James Perez,East,Laptop,Electronics,10,24880.55,248805.5
+ORD1663,2024-11-21,Zachary Ferguson,South,Milk,Groceries,2,44835.35,89670.7
+ORD1664,2025-01-12,Anna Moreno,North,Laptop,Electronics,3,40563.75,121691.25
+ORD1665,2025-04-26,Edward Horton,North,Jacket,Clothing,3,33668.29,101004.87
+ORD1666,2024-07-24,Erica Norris,South,Smartphone,Electronics,1,33372.44,33372.44
+ORD1667,2025-03-18,Theodore Howard,East,Milk,Groceries,6,26175.64,157053.84
+ORD1668,2025-02-19,Keith Moreno,North,Pulses,Groceries,10,4530.13,45301.3
+ORD1669,2025-03-02,Mariah Ramirez,West,Wall Art,Home Decor,9,22555.1,202995.9
+ORD1670,2024-12-19,Frederick Bender,West,Smartphone,Electronics,5,48914.18,244570.9
+ORD1671,2025-03-14,Angela Waller,West,Smartphone,Electronics,10,30349.72,303497.2
+ORD1672,2025-04-10,Becky Pacheco,West,Rice,Groceries,1,1028.71,1028.71
+ORD1673,2024-11-26,Andrea King,North,Pulses,Groceries,9,17886.86,160981.74
+ORD1674,2024-12-09,Margaret Beasley,South,Jeans,Clothing,2,19197.75,38395.5
+ORD1675,2025-02-26,Elizabeth Beck,East,Pulses,Groceries,1,46206.23,46206.23
+ORD1676,2024-10-25,Tracy Russell,West,Lamp,Home Decor,4,30376.64,121506.56
+ORD1677,2025-03-08,Teresa Harris,South,Bluetooth Speaker,Electronics,10,9476.12,94761.2
+ORD1678,2025-03-18,Susan Hoover,East,Wall Art,Home Decor,9,37840.8,340567.2
+ORD1679,2024-09-12,Melvin Shaw,West,Bluetooth Speaker,Electronics,2,8750.41,17500.82
+ORD1680,2025-06-18,Shirley Herrera,North,Lamp,Home Decor,9,45651.08,410859.72
+ORD1681,2024-11-07,Jason Jensen,West,Bluetooth Speaker,Electronics,5,22435.44,112177.2
+ORD1682,2025-06-30,Jason Mcmillan,East,Pulses,Groceries,9,36474.46,328270.14
+ORD1683,2024-08-17,Devin Barker,North,Bluetooth Speaker,Electronics,6,33338.32,200029.92
+ORD1684,2025-06-19,Gregory Jacobs,East,Oil,Groceries,8,2989.67,23917.36
+ORD1685,2025-01-25,Michael Nelson,North,Jeans,Clothing,4,2950.25,11801.0
+ORD1686,2024-09-27,Jeremy Walker,West,Bluetooth Speaker,Electronics,5,46400.68,232003.4
+ORD1687,2025-01-13,Tyler Brooks,South,Wall Art,Home Decor,6,22506.56,135039.36
+ORD1688,2024-08-28,Adrian Flores,South,Curtains,Home Decor,10,24308.11,243081.1
+ORD1689,2025-01-07,Nicholas Mercado,West,Pulses,Groceries,9,38933.22,350398.98
+ORD1690,2025-01-03,Ruth King,North,T-Shirt,Clothing,5,41392.54,206962.7
+ORD1691,2024-08-25,James Simmons,East,Lamp,Home Decor,4,14055.55,56222.2
+ORD1692,2024-09-27,Courtney Mcmillan,South,LED TV,Electronics,1,12599.72,12599.72
+ORD1693,2024-11-14,Tina Jennings,North,Jacket,Clothing,8,24422.47,195379.76
+ORD1694,2025-05-06,Stephen Montoya,East,LED TV,Electronics,2,44296.6,88593.2
+ORD1695,2025-03-18,Thomas Hill,North,Laptop,Electronics,8,23725.62,189804.96
+ORD1696,2025-01-22,Tonya Santana,West,Oil,Groceries,4,7891.82,31567.28
+ORD1697,2025-03-01,Tony Summers,East,Wall Art,Home Decor,6,2578.98,15473.88
+ORD1698,2024-10-16,Kristi Jones,South,Saree,Clothing,8,39845.84,318766.72
+ORD1699,2024-07-19,Betty Morse,West,Lamp,Home Decor,8,47660.2,381281.6
+ORD1700,2024-10-04,Devon Marks,West,Milk,Groceries,2,8100.49,16200.98
+ORD1701,2024-12-08,Brittney Edwards,West,Curtains,Home Decor,8,45403.56,363228.48
+ORD1702,2024-11-26,Sophia Soto,East,Milk,Groceries,5,18131.42,90657.1
+ORD1703,2024-09-06,Robert Mcintosh,East,Curtains,Home Decor,3,18690.49,56071.47
+ORD1704,2024-12-19,Dillon Coleman,West,Jacket,Clothing,1,43553.74,43553.74
+ORD1705,2024-10-16,Isabella Bryant,South,Curtains,Home Decor,3,40603.87,121811.61
+ORD1706,2025-01-07,Eric West,South,Saree,Clothing,8,17312.83,138502.64
+ORD1707,2024-08-13,Emily Perry,East,Saree,Clothing,9,24224.39,218019.51
+ORD1708,2025-04-17,Evan Hernandez,North,T-Shirt,Clothing,8,31428.3,251426.4
+ORD1709,2024-10-21,David Jones,South,Milk,Groceries,4,39809.76,159239.04
+ORD1710,2025-01-25,April Williams,West,Cushion Set,Home Decor,8,49278.9,394231.2
+ORD1711,2024-07-24,Kyle Johnson,East,Lamp,Home Decor,4,21875.6,87502.4
+ORD1712,2025-02-11,Carol Bradley,North,Milk,Groceries,8,25295.58,202364.64
+ORD1713,2024-08-02,Meghan Bell,East,Milk,Groceries,5,44705.41,223527.05
+ORD1714,2024-07-24,Michael Avila,South,Cushion Set,Home Decor,10,26732.07,267320.7
+ORD1715,2025-02-06,Rachel Howe,South,Rice,Groceries,9,23818.56,214367.04
+ORD1716,2025-03-20,Mark Lee,South,Lamp,Home Decor,10,41567.07,415670.7
+ORD1717,2025-06-27,Heather Smith,South,Curtains,Home Decor,8,3710.06,29680.48
+ORD1718,2024-07-15,Connor Wilson,North,LED TV,Electronics,7,8283.17,57982.19
+ORD1719,2024-12-04,Diane Pineda,West,Jacket,Clothing,1,48265.96,48265.96
+ORD1720,2024-10-02,Michael Brown,East,Smartphone,Electronics,7,41012.1,287084.7
+ORD1721,2025-01-12,John Hernandez,South,Laptop,Electronics,1,1255.32,1255.32
+ORD1722,2024-10-05,Theodore Nicholson,East,Saree,Clothing,2,6557.54,13115.08
+ORD1723,2025-02-26,Jeffrey Coleman,South,T-Shirt,Clothing,3,33363.54,100090.62
+ORD1724,2025-06-22,Tina Williams,South,T-Shirt,Clothing,4,43289.28,173157.12
+ORD1725,2025-01-01,Brenda Miller,East,Saree,Clothing,4,48452.61,193810.44
+ORD1726,2024-09-29,Kevin Howell MD,South,LED TV,Electronics,1,16550.49,16550.49
+ORD1727,2024-08-04,Gregory Smith,South,Pulses,Groceries,9,13693.74,123243.66
+ORD1728,2025-06-06,Sarah Johnson,South,Rice,Groceries,10,14989.21,149892.1
+ORD1729,2024-11-17,Christina Dennis,West,Saree,Clothing,7,18314.15,128199.05
+ORD1730,2025-06-29,Jessica Murphy,West,Oil,Groceries,1,30507.44,30507.44
+ORD1731,2024-11-14,Sheryl Rojas,South,Curtains,Home Decor,1,5501.32,5501.32
+ORD1732,2025-05-12,Kristin Valdez,West,Milk,Groceries,6,2166.83,13000.98
+ORD1733,2025-03-12,David Campbell,West,Cushion Set,Home Decor,1,20316.5,20316.5
+ORD1734,2024-10-08,Margaret Wilson MD,West,Wall Art,Home Decor,6,22239.47,133436.82
+ORD1735,2024-08-20,Elizabeth Robbins,East,T-Shirt,Clothing,6,9244.64,55467.84
+ORD1736,2025-05-02,William Gonzalez,South,Pulses,Groceries,6,48283.04,289698.24
+ORD1737,2025-03-04,Jacob Day,East,Jeans,Clothing,1,13378.42,13378.42
+ORD1738,2024-11-30,Barbara Garcia,South,Oil,Groceries,1,37731.6,37731.6
+ORD1739,2024-11-02,Amanda Smith,South,Oil,Groceries,6,3303.68,19822.08
+ORD1740,2024-11-14,Kelly Perez,East,Curtains,Home Decor,4,2025.81,8103.24
+ORD1741,2024-10-23,Tiffany Taylor,South,Curtains,Home Decor,8,26264.71,210117.68
+ORD1742,2025-06-29,Andrew Watkins,West,Saree,Clothing,2,34449.03,68898.06
+ORD1743,2024-12-25,Alan Hodges,South,Pulses,Groceries,4,27768.3,111073.2
+ORD1744,2025-04-18,Carmen Perez,East,Jacket,Clothing,5,33798.33,168991.65
+ORD1745,2025-05-25,Joseph Thomas,West,Bluetooth Speaker,Electronics,3,38193.95,114581.85
+ORD1746,2024-11-28,Jennifer Kaiser,North,Saree,Clothing,4,24074.0,96296.0
+ORD1747,2025-04-08,Francis Ellis,East,Pulses,Groceries,2,25722.16,51444.32
+ORD1748,2025-04-17,Aaron Luna,East,Wall Art,Home Decor,5,27699.75,138498.75
+ORD1749,2025-05-18,Richard Davis,East,Pulses,Groceries,2,26371.18,52742.36
+ORD1750,2024-10-03,Mary Ramirez,North,Jeans,Clothing,4,15114.84,60459.36
+ORD1751,2025-04-04,Robin Costa,South,Curtains,Home Decor,5,40399.87,201999.35
+ORD1752,2024-09-02,James Ryan,West,Bluetooth Speaker,Electronics,6,33844.96,203069.76
+ORD1753,2025-03-30,Mark Harper,West,Jacket,Clothing,5,35620.7,178103.5
+ORD1754,2025-03-03,Dwayne Collier,East,Wall Art,Home Decor,9,6694.72,60252.48
+ORD1755,2025-07-10,Elizabeth Mullen,South,Pulses,Groceries,2,32845.28,65690.56
+ORD1756,2025-03-14,Daniel Mejia,North,Curtains,Home Decor,1,26552.95,26552.95
+ORD1757,2025-06-24,Matthew Newton,West,Bluetooth Speaker,Electronics,4,38193.18,152772.72
+ORD1758,2025-06-24,Chelsea Davis,North,Oil,Groceries,3,22770.44,68311.32
+ORD1759,2025-02-17,Jose Cummings,West,Lamp,Home Decor,10,16719.48,167194.8
+ORD1760,2025-06-27,Corey Parker,South,Saree,Clothing,10,23363.11,233631.1
+ORD1761,2024-09-16,Bailey Johnson,East,Wall Art,Home Decor,10,42760.38,427603.8
+ORD1762,2024-12-17,Chloe Contreras,East,Rice,Groceries,4,33105.84,132423.36
+ORD1763,2025-06-20,Katrina Mitchell,West,Smartphone,Electronics,8,28267.13,226137.04
+ORD1764,2024-09-12,Pamela Hart,East,Saree,Clothing,8,29114.88,232919.04
+ORD1765,2025-01-17,Deborah Reyes,East,Curtains,Home Decor,8,48153.07,385224.56
+ORD1766,2025-02-09,Christy Sharp,North,Bluetooth Speaker,Electronics,2,3587.48,7174.96
+ORD1767,2025-06-16,Joshua Chandler,West,Rice,Groceries,9,47137.96,424241.64
+ORD1768,2025-03-29,Tina Savage,East,Lamp,Home Decor,7,3452.3,24166.1
+ORD1769,2024-08-01,Kenneth Jones,South,LED TV,Electronics,6,36548.49,219290.94
+ORD1770,2025-06-11,Lisa Conrad,East,Curtains,Home Decor,6,44387.22,266323.32
+ORD1771,2025-05-26,Kathryn Sawyer,South,Cushion Set,Home Decor,1,22716.08,22716.08
+ORD1772,2025-05-11,Christian Cox,South,Oil,Groceries,4,31508.97,126035.88
+ORD1773,2025-07-12,Christine Aguirre,West,Rice,Groceries,4,10396.37,41585.48
+ORD1774,2024-07-28,Julia Stevens,North,Bluetooth Speaker,Electronics,8,11694.06,93552.48
+ORD1775,2024-10-30,Adam Roberson,South,Oil,Groceries,3,12367.31,37101.93
+ORD1776,2025-05-22,Richard Powell,East,Cushion Set,Home Decor,8,30480.75,243846.0
+ORD1777,2024-07-16,Eric Gardner,North,Smartphone,Electronics,7,48030.61,336214.27
+ORD1778,2024-08-15,Megan Smith,South,Laptop,Electronics,8,31735.17,253881.36
+ORD1779,2024-11-21,Alicia Carter,South,T-Shirt,Clothing,5,43209.57,216047.85
+ORD1780,2025-01-06,Matthew Clark,West,Pulses,Groceries,9,29350.4,264153.6
+ORD1781,2025-06-21,Taylor Lee,East,Rice,Groceries,7,9883.49,69184.43
+ORD1782,2025-06-19,Cindy Santos MD,West,Curtains,Home Decor,10,40810.03,408100.3
+ORD1783,2025-03-24,Leah Hardy,South,Jeans,Clothing,9,2592.58,23333.22
+ORD1784,2025-05-07,Rebecca Dominguez,South,Laptop,Electronics,8,31358.71,250869.68
+ORD1785,2025-02-14,Regina Rangel,East,Wall Art,Home Decor,8,21194.73,169557.84
+ORD1786,2025-04-22,Nicole Choi,East,Pulses,Groceries,6,13800.09,82800.54
+ORD1787,2025-01-07,Amy Nelson MD,North,Wall Art,Home Decor,3,17121.97,51365.91
+ORD1788,2024-07-29,Nathan Deleon,South,Saree,Clothing,8,35865.02,286920.16
+ORD1789,2024-07-30,Scott Jones,South,Jacket,Clothing,5,22336.55,111682.75
+ORD1790,2025-03-02,Terry Wade,West,Laptop,Electronics,6,49791.99,298751.94
+ORD1791,2024-10-14,John Patterson,West,Jeans,Clothing,6,4982.65,29895.9
+ORD1792,2025-04-22,Daniel Mcdaniel,East,Pulses,Groceries,1,15811.45,15811.45
+ORD1793,2025-03-26,Alisha Manning,East,Curtains,Home Decor,6,11076.22,66457.32
+ORD1794,2024-09-13,James Madden,East,Oil,Groceries,8,39683.84,317470.72
+ORD1795,2024-08-28,Jose Morgan,East,Milk,Groceries,4,3066.41,12265.64
+ORD1796,2024-07-16,Mary Payne,East,Rice,Groceries,2,49166.42,98332.84
+ORD1797,2025-01-26,Shane Bean,West,Bluetooth Speaker,Electronics,7,7627.4,53391.8
+ORD1798,2024-11-27,Susan Miles,South,Milk,Groceries,6,23653.5,141921.0
+ORD1799,2024-10-14,Beth Hill,East,Laptop,Electronics,9,12078.69,108708.21
+ORD1800,2025-04-04,Julie Shepherd,East,Rice,Groceries,10,46038.93,460389.3
+ORD1801,2024-12-22,Michael King,North,Milk,Groceries,4,40577.21,162308.84
+ORD1802,2024-12-04,Stephen Chapman,East,Cushion Set,Home Decor,8,49328.25,394626.0
+ORD1803,2024-09-18,Whitney Garcia,South,Saree,Clothing,7,48557.73,339904.11
+ORD1804,2024-09-04,Melissa Harris,East,T-Shirt,Clothing,8,20760.57,166084.56
+ORD1805,2025-03-03,Keith Boyer,East,Milk,Groceries,8,20798.99,166391.92
+ORD1806,2025-04-02,Lisa Carey,North,Bluetooth Speaker,Electronics,7,20526.81,143687.67
+ORD1807,2025-05-28,Vicki Thomas,South,T-Shirt,Clothing,10,23023.42,230234.2
+ORD1808,2025-01-04,Ariel Myers,South,Jeans,Clothing,4,42632.26,170529.04
+ORD1809,2025-01-27,Amber Greene,East,Pulses,Groceries,8,9703.87,77630.96
+ORD1810,2024-12-17,Kimberly Crawford,East,Cushion Set,Home Decor,10,832.04,8320.4
+ORD1811,2024-08-07,Daniel Smith,East,Smartphone,Electronics,8,48376.93,387015.44
+ORD1812,2024-10-04,Steven Moore,West,Pulses,Groceries,9,19233.36,173100.24
+ORD1813,2024-12-11,William Alexander,North,Saree,Clothing,10,43377.53,433775.3
+ORD1814,2024-09-11,Renee Lee,East,Saree,Clothing,2,6044.61,12089.22
+ORD1815,2025-05-10,Julia Bailey,South,Cushion Set,Home Decor,9,21541.17,193870.53
+ORD1816,2025-04-24,Cassandra Decker,South,Jacket,Clothing,10,9051.83,90518.3
+ORD1817,2024-12-30,Jason Davis,East,Smartphone,Electronics,2,26572.38,53144.76
+ORD1818,2025-04-09,Donna Martin,West,Rice,Groceries,9,10185.84,91672.56
+ORD1819,2025-04-12,Rebecca Dominguez,South,Milk,Groceries,6,7707.72,46246.32
+ORD1820,2025-06-19,Megan Jones,West,Smartphone,Electronics,3,4507.74,13523.22
+ORD1821,2024-08-14,Anthony Howard,North,Oil,Groceries,5,6469.17,32345.85
+ORD1822,2025-07-04,Henry Lawson,West,Jacket,Clothing,10,48968.57,489685.7
+ORD1823,2024-08-29,Tyler Fuller,East,Laptop,Electronics,8,2710.04,21680.32
+ORD1824,2025-05-30,Raymond Morgan,East,Lamp,Home Decor,10,11638.61,116386.1
+ORD1825,2024-12-02,Linda Delgado,East,Milk,Groceries,10,8248.27,82482.7
+ORD1826,2025-02-22,Elizabeth Waller,North,Bluetooth Speaker,Electronics,6,9680.24,58081.44
+ORD1827,2025-06-01,Bryan Hicks,West,Pulses,Groceries,7,18998.45,132989.15
+ORD1828,2024-09-17,Jeremy Smith,West,Lamp,Home Decor,10,26767.47,267674.7
+ORD1829,2025-02-27,Aaron Ward,West,Pulses,Groceries,6,40894.21,245365.26
+ORD1830,2024-10-02,Kenneth Rodriguez,West,Pulses,Groceries,10,34809.78,348097.8
+ORD1831,2024-08-22,Robert Valencia,North,LED TV,Electronics,1,14622.38,14622.38
+ORD1832,2024-09-19,Lisa Brady,North,Oil,Groceries,1,27833.97,27833.97
+ORD1833,2025-04-18,Yvonne Rivera MD,East,Cushion Set,Home Decor,6,30029.54,180177.24
+ORD1834,2024-12-18,Benjamin Cochran,West,Wall Art,Home Decor,1,40537.81,40537.81
+ORD1835,2024-09-14,Dustin Gonzalez,East,Saree,Clothing,3,7017.43,21052.29
+ORD1836,2025-04-02,Carrie Burgess,North,Wall Art,Home Decor,7,9120.95,63846.65
+ORD1837,2025-07-09,Mary Solis,East,Cushion Set,Home Decor,2,7599.69,15199.38
+ORD1838,2024-11-23,Samantha Manning,East,LED TV,Electronics,3,17236.57,51709.71
+ORD1839,2025-03-12,Logan Gross,North,Jeans,Clothing,7,45184.46,316291.22
+ORD1840,2024-12-21,Amber Knight,North,Curtains,Home Decor,2,34539.4,69078.8
+ORD1841,2025-01-21,Cynthia Briggs,West,Oil,Groceries,6,46428.59,278571.54
+ORD1842,2024-09-16,Diana Oneill,South,Rice,Groceries,2,37929.34,75858.68
+ORD1843,2025-06-06,Mary Strong,South,Rice,Groceries,5,27307.88,136539.4
+ORD1844,2025-01-04,Kevin Zavala,South,Rice,Groceries,4,21878.49,87513.96
+ORD1845,2024-11-15,Robert Greene,East,Wall Art,Home Decor,2,18984.76,37969.52
+ORD1846,2025-06-15,Kenneth Carroll,East,T-Shirt,Clothing,10,15678.24,156782.4
+ORD1847,2024-07-23,Jonathan Vargas,South,Curtains,Home Decor,9,45153.06,406377.54
+ORD1848,2024-08-08,Angela Lopez,North,Wall Art,Home Decor,4,8561.97,34247.88
+ORD1849,2024-08-07,Emily Williams,South,Saree,Clothing,5,40709.42,203547.1
+ORD1850,2024-11-06,Daniel Lindsey,North,Rice,Groceries,8,23769.83,190158.64
+ORD1851,2025-01-18,Shannon Reed,East,Rice,Groceries,6,9635.81,57814.86
+ORD1852,2024-09-15,Robert Lawson,South,Cushion Set,Home Decor,9,49066.63,441599.67
+ORD1853,2024-10-09,Heather Mcknight,West,Curtains,Home Decor,5,17356.11,86780.55
+ORD1854,2024-12-01,Monica Guzman,South,Bluetooth Speaker,Electronics,2,32060.41,64120.82
+ORD1855,2025-04-26,Brandon Smith,South,Saree,Clothing,3,29763.82,89291.46
+ORD1856,2024-08-09,Kevin Hopkins,West,Jeans,Clothing,6,23255.6,139533.6
+ORD1857,2025-06-19,Wayne Gibson,West,Curtains,Home Decor,8,40569.44,324555.52
+ORD1858,2025-01-18,Alex Maldonado,East,Oil,Groceries,5,44689.11,223445.55
+ORD1859,2025-03-29,Brian Robinson,East,Saree,Clothing,3,25470.26,76410.78
+ORD1860,2025-02-25,Scott Dennis,South,Smartphone,Electronics,4,42678.83,170715.32
+ORD1861,2025-03-24,Kenneth Doyle,East,Curtains,Home Decor,2,32262.05,64524.1
+ORD1862,2024-08-14,Joseph Richardson,South,Jacket,Clothing,8,6484.54,51876.32
+ORD1863,2025-03-06,Kelly Jones,South,Laptop,Electronics,2,8250.75,16501.5
+ORD1864,2025-02-04,Tiffany Smith,North,Saree,Clothing,8,463.79,3710.32
+ORD1865,2025-01-07,Sean Smith,South,Bluetooth Speaker,Electronics,7,49287.11,345009.77
+ORD1866,2025-04-06,Tina Hall,West,Smartphone,Electronics,4,16514.63,66058.52
+ORD1867,2025-02-16,Nancy Henderson,East,Jacket,Clothing,5,1884.68,9423.4
+ORD1868,2024-07-15,Cassandra Macias,North,Jacket,Clothing,2,34649.6,69299.2
+ORD1869,2024-08-25,Isaac Foley,West,Saree,Clothing,4,25391.01,101564.04
+ORD1870,2025-05-31,Lisa Shelton,West,Pulses,Groceries,4,19579.99,78319.96
+ORD1871,2024-09-29,Kyle Andrews,East,Oil,Groceries,1,3881.72,3881.72
+ORD1872,2024-11-24,Mary Crawford,North,Lamp,Home Decor,6,16019.99,96119.94
+ORD1873,2024-12-05,Tanya Soto,South,Rice,Groceries,6,5687.11,34122.66
+ORD1874,2025-05-31,Richard Wilcox,East,T-Shirt,Clothing,6,34284.21,205705.26
+ORD1875,2025-05-14,Carrie Cooke,East,Wall Art,Home Decor,4,49195.27,196781.08
+ORD1876,2024-10-23,Don Johnson,West,Jacket,Clothing,4,11491.97,45967.88
+ORD1877,2025-04-03,Catherine Olson,East,Pulses,Groceries,7,40207.46,281452.22
+ORD1878,2024-10-13,Jimmy Smith,South,Cushion Set,Home Decor,1,21288.35,21288.35
+ORD1879,2025-05-13,Samantha Rich,North,Laptop,Electronics,3,22810.71,68432.13
+ORD1880,2024-08-19,Cindy Holt,South,Oil,Groceries,2,9615.82,19231.64
+ORD1881,2025-07-04,Andrea Hamilton,West,Bluetooth Speaker,Electronics,1,8128.47,8128.47
+ORD1882,2024-12-23,Kristin Flores,East,T-Shirt,Clothing,4,24000.19,96000.76
+ORD1883,2024-12-02,Aaron Thomas,South,Curtains,Home Decor,10,30824.11,308241.1
+ORD1884,2025-01-21,Stephanie Lozano,West,Smartphone,Electronics,5,2853.2,14266.0
+ORD1885,2025-01-29,Brittany Moore,South,Jacket,Clothing,9,17451.62,157064.58
+ORD1886,2025-01-04,Derek Cabrera,West,T-Shirt,Clothing,10,4863.84,48638.4
+ORD1887,2025-05-05,Traci Mcmahon,North,Bluetooth Speaker,Electronics,8,11715.26,93722.08
+ORD1888,2024-10-23,Lawrence Johnson,North,Pulses,Groceries,8,33911.64,271293.12
+ORD1889,2024-09-09,David Kline,North,Rice,Groceries,10,40336.74,403367.4
+ORD1890,2025-01-28,William Morgan,East,Wall Art,Home Decor,7,15561.14,108927.98
+ORD1891,2025-02-25,Angela Huerta,South,Rice,Groceries,2,47559.58,95119.16
+ORD1892,2024-10-24,Jasmin Chavez,West,Wall Art,Home Decor,9,26843.74,241593.66
+ORD1893,2025-06-14,Crystal Torres,West,Smartphone,Electronics,1,12080.25,12080.25
+ORD1894,2024-12-19,Omar Collins,West,Milk,Groceries,10,22508.57,225085.7
+ORD1895,2024-09-25,Brittney Williams,West,LED TV,Electronics,10,36268.63,362686.3
+ORD1896,2024-10-26,Eric Mitchell,East,Milk,Groceries,5,47871.99,239359.95
+ORD1897,2025-06-09,Sharon Massey,North,Lamp,Home Decor,6,27004.42,162026.52
+ORD1898,2024-08-08,Eric West,North,Wall Art,Home Decor,7,31038.38,217268.66
+ORD1899,2024-12-28,Hannah Hall,North,Laptop,Electronics,6,44559.32,267355.92
+ORD1900,2024-09-10,James Gonzalez,South,Smartphone,Electronics,8,26349.73,210797.84
+ORD1901,2024-09-07,James Robbins,West,Curtains,Home Decor,3,21307.25,63921.75
+ORD1902,2025-02-27,Thomas Rodriguez,South,Jeans,Clothing,10,20856.45,208564.5
+ORD1903,2025-04-15,Courtney Bailey,East,Curtains,Home Decor,1,48885.31,48885.31
+ORD1904,2024-07-30,Ms. Jennifer Wells DVM,West,Saree,Clothing,6,269.67,1618.02
+ORD1905,2024-12-12,Nancy Small DVM,East,Smartphone,Electronics,3,18086.35,54259.05
+ORD1906,2024-10-04,Neil Perez,South,Saree,Clothing,6,32914.1,197484.6
+ORD1907,2025-03-22,William Maldonado,East,Jacket,Clothing,7,25385.24,177696.68
+ORD1908,2025-05-12,Jacob Burns,South,Rice,Groceries,8,22777.36,182218.88
+ORD1909,2025-05-14,Amy Dorsey,West,LED TV,Electronics,10,6691.1,66911.0
+ORD1910,2025-05-13,Lisa Hoffman,West,Laptop,Electronics,5,29840.86,149204.3
+ORD1911,2024-11-11,Brian Collins,South,Saree,Clothing,10,27708.85,277088.5
+ORD1912,2024-11-15,Nicholas King,South,Wall Art,Home Decor,4,2357.49,9429.96
+ORD1913,2024-08-26,Toni Mckinney,North,Saree,Clothing,3,4714.66,14143.98
+ORD1914,2024-09-29,Linda Key,West,T-Shirt,Clothing,4,2008.61,8034.44
+ORD1915,2025-04-21,Wendy Cohen,East,Bluetooth Speaker,Electronics,8,39642.71,317141.68
+ORD1916,2025-03-09,Vanessa Mann,West,Jeans,Clothing,3,15508.64,46525.92
+ORD1917,2024-10-17,Katherine Garcia,West,Cushion Set,Home Decor,5,4275.18,21375.9
+ORD1918,2025-06-13,Natalie Turner,North,Rice,Groceries,8,10305.47,82443.76
+ORD1919,2024-08-05,Jessica Harris,South,Wall Art,Home Decor,5,30415.23,152076.15
+ORD1920,2025-05-02,Robin Shelton,North,LED TV,Electronics,6,48019.79,288118.74
+ORD1921,2025-07-03,Jennifer Woods,East,Laptop,Electronics,4,26839.47,107357.88
+ORD1922,2024-10-05,Barbara Sanchez,North,Wall Art,Home Decor,8,7705.13,61641.04
+ORD1923,2024-08-25,Jay Maldonado,West,Wall Art,Home Decor,8,35508.11,284064.88
+ORD1924,2024-11-07,Dr. Malik Scott,West,Pulses,Groceries,9,45484.7,409362.3
+ORD1925,2025-07-09,Alison Cannon,North,Wall Art,Home Decor,3,9189.33,27567.99
+ORD1926,2024-11-08,Susan Ritter,North,Laptop,Electronics,1,38832.52,38832.52
+ORD1927,2025-07-03,Mike Greene,North,Jeans,Clothing,9,44066.19,396595.71
+ORD1928,2025-07-09,Amy Wilcox,South,Wall Art,Home Decor,6,4597.54,27585.24
+ORD1929,2024-09-17,Lori Peters,South,Smartphone,Electronics,1,20408.54,20408.54
+ORD1930,2024-12-15,Charlotte Mills,North,LED TV,Electronics,3,8787.35,26362.05
+ORD1931,2024-11-10,Samuel Walsh,South,Saree,Clothing,7,21299.37,149095.59
+ORD1932,2025-02-19,Kimberly Guzman,South,Rice,Groceries,6,27692.06,166152.36
+ORD1933,2024-07-22,Dr. Tracey Richards,West,Laptop,Electronics,2,16313.61,32627.22
+ORD1934,2025-03-24,Amber Walker,West,T-Shirt,Clothing,2,43907.08,87814.16
+ORD1935,2024-07-30,Jennifer Ferguson,South,Milk,Groceries,3,39600.31,118800.93
+ORD1936,2025-03-05,Kathleen Monroe,West,Pulses,Groceries,7,30129.47,210906.29
+ORD1937,2025-04-25,Tonya Turner,East,LED TV,Electronics,5,6624.15,33120.75
+ORD1938,2025-06-23,Julie Suarez,South,Rice,Groceries,10,43614.31,436143.1
+ORD1939,2024-09-21,David Thomas,North,Curtains,Home Decor,5,49294.44,246472.2
+ORD1940,2025-05-15,Elaine Ware,North,T-Shirt,Clothing,5,34169.53,170847.65
+ORD1941,2024-08-17,Jason Garza,North,T-Shirt,Clothing,6,19712.66,118275.96
+ORD1942,2025-01-10,Carlos Stewart,West,LED TV,Electronics,8,25778.76,206230.08
+ORD1943,2024-07-31,Tammy Clark,West,Lamp,Home Decor,7,45482.95,318380.65
+ORD1944,2025-01-29,Jeremy Cooper,South,Jacket,Clothing,4,20967.54,83870.16
+ORD1945,2024-10-01,Angela Davis,South,Lamp,Home Decor,6,10325.92,61955.52
+ORD1946,2025-06-18,Dennis Davila,North,Curtains,Home Decor,9,47261.64,425354.76
+ORD1947,2025-01-10,Daniel Lewis,West,Cushion Set,Home Decor,2,20197.25,40394.5
+ORD1948,2025-01-13,Harry Suarez,South,Milk,Groceries,10,25267.2,252672.0
+ORD1949,2025-02-19,Glenn Singh,South,Laptop,Electronics,7,11790.59,82534.13
+ORD1950,2024-07-27,Amber Clark,South,T-Shirt,Clothing,2,9102.04,18204.08
+ORD1951,2024-09-29,Jacob Thomas,North,Smartphone,Electronics,9,45071.61,405644.49
+ORD1952,2024-10-30,Kevin Watson,North,Bluetooth Speaker,Electronics,7,37531.19,262718.33
+ORD1953,2024-12-04,Richard Frank,North,Bluetooth Speaker,Electronics,10,8107.95,81079.5
+ORD1954,2025-03-07,Leonard Johnson,South,Jacket,Clothing,10,11131.25,111312.5
+ORD1955,2025-03-19,Ryan Walker DDS,North,Cushion Set,Home Decor,2,24791.77,49583.54
+ORD1956,2024-10-25,Alexis Shah,South,Lamp,Home Decor,8,654.56,5236.48
+ORD1957,2025-04-22,Mary Velasquez,South,Pulses,Groceries,8,38597.88,308783.04
+ORD1958,2025-02-14,David Kemp DDS,West,Milk,Groceries,10,24184.31,241843.1
+ORD1959,2025-03-30,Hunter Simmons,West,LED TV,Electronics,5,37109.88,185549.4
+ORD1960,2025-04-02,Emily Soto,South,Rice,Groceries,4,47685.6,190742.4
+ORD1961,2024-12-10,Ronald Burns,East,Saree,Clothing,3,14472.94,43418.82
+ORD1962,2025-02-25,Christopher Barrett,South,Rice,Groceries,2,41663.19,83326.38
+ORD1963,2025-07-11,Marie Barnes,South,Smartphone,Electronics,9,42410.79,381697.11
+ORD1964,2024-09-14,Jesse White,West,Cushion Set,Home Decor,5,13843.75,69218.75
+ORD1965,2025-01-20,Traci Roberts,East,Laptop,Electronics,1,795.99,795.99
+ORD1966,2025-03-15,Lisa Williams,North,Jeans,Clothing,6,14174.67,85048.02
+ORD1967,2024-07-24,Brooke Kelley,West,Wall Art,Home Decor,8,33362.35,266898.8
+ORD1968,2025-03-13,David Maxwell,West,Laptop,Electronics,5,25786.55,128932.75
+ORD1969,2024-09-08,Derek Miller,South,Curtains,Home Decor,1,22795.98,22795.98
+ORD1970,2025-02-18,Stephen Gonzalez,North,Smartphone,Electronics,6,10794.9,64769.4
+ORD1971,2025-05-30,Nicole Horn,South,LED TV,Electronics,7,19076.13,133532.91
+ORD1972,2025-02-03,David Hamilton,North,Cushion Set,Home Decor,6,45196.8,271180.8
+ORD1973,2024-12-26,Alyssa Edwards,West,Cushion Set,Home Decor,9,23703.0,213327.0
+ORD1974,2024-07-29,Marcus Escobar,South,Milk,Groceries,7,11901.21,83308.47
+ORD1975,2025-04-26,John Hill,East,Saree,Clothing,10,2269.38,22693.8
+ORD1976,2024-08-14,Debra Brady,South,Wall Art,Home Decor,2,16014.09,32028.18
+ORD1977,2024-08-04,Brooke Wilkins,West,Lamp,Home Decor,6,44584.19,267505.14
+ORD1978,2025-04-24,Jeffrey Singh,South,Pulses,Groceries,6,38515.81,231094.86
+ORD1979,2025-01-19,Mike Barnes,West,Jeans,Clothing,1,22236.89,22236.89
+ORD1980,2025-03-04,James Ray,West,Laptop,Electronics,4,48341.46,193365.84
+ORD1981,2025-03-01,Kristin Coffey DDS,East,Oil,Groceries,9,38132.42,343191.78
+ORD1982,2025-05-10,Andrew Salas,East,Lamp,Home Decor,10,3364.65,33646.5
+ORD1983,2024-12-10,Aaron Chandler,South,Jeans,Clothing,2,13248.55,26497.1
+ORD1984,2025-06-19,Evelyn Caldwell,South,Jeans,Clothing,4,18623.86,74495.44
+ORD1985,2024-11-19,Mr. Justin Skinner,North,T-Shirt,Clothing,6,1315.64,7893.84
+ORD1986,2025-03-14,Daniel Patel,East,Saree,Clothing,3,33082.71,99248.13
+ORD1987,2024-08-09,Kenneth Ramirez,East,Cushion Set,Home Decor,8,47878.66,383029.28
+ORD1988,2024-11-19,Jacob Weaver,West,Laptop,Electronics,6,6896.52,41379.12
+ORD1989,2025-01-24,Daniel Weber,North,Milk,Groceries,2,725.29,1450.58
+ORD1990,2024-08-15,Vanessa George,East,Wall Art,Home Decor,9,43553.28,391979.52
+ORD1991,2025-02-20,Alex Hill,South,Bluetooth Speaker,Electronics,6,27726.92,166361.52
+ORD1992,2025-03-10,Brian Golden,West,LED TV,Electronics,4,27761.46,111045.84
+ORD1993,2025-01-31,Richard Kennedy PhD,East,Milk,Groceries,8,48410.5,387284.0
+ORD1994,2025-05-25,Lisa Lynch,West,Laptop,Electronics,3,33812.13,101436.39
+ORD1995,2025-01-25,Jose Turner,North,Wall Art,Home Decor,4,13056.0,52224.0
+ORD1996,2025-05-29,Laura Scott,South,Oil,Groceries,8,18838.65,150709.2
+ORD1997,2024-09-24,Kevin Sherman,West,Lamp,Home Decor,10,16348.76,163487.6
+ORD1998,2025-01-26,Katherine Cisneros,East,Jeans,Clothing,3,14773.28,44319.84
+ORD1999,2025-07-01,Christopher Conway,East,Jeans,Clothing,2,6440.2,12880.4
