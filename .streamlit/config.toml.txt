@@ -1,0 +1,6 @@
+[server]
+maxUploadSize = 200
+headless = true
+enableCORS = false
+serverTimeout = 600  # Timeout in seconds
+$env:Path += ";C:\Users\pooja\anaconda3\Scripts;C:\Users\pooja\anaconda3\condabin"
