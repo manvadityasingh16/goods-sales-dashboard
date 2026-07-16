@@ -2,6 +2,7 @@
 
 An AI-powered interactive sales analytics dashboard built using **Streamlit**, **Python**, **Pandas**, **Plotly**, and **Google Gemini AI**. The dashboard helps businesses visualize sales data, identify trends, generate forecasts, and receive AI-powered business insights.
 
+Live Demo - https://goods-sales-dashboard-3dfdpgjxwayci5vzjkyymy.streamlit.app/
 ---
 
 ## 🚀 Features
